@@ -1,0 +1,1028 @@
+[2019-01-18T12:34:37.007] [INFO] default - "Month:DEC|FY Year:F19|Business_Unit:BSS & IT,EPC,INNOVATION CELL,MAHINDRA AGRI SOLUTIONS|Age_Group:18-25,25-35,35-45,45-55,Above 55,Below 18|Employee_Type:Officers"
+[2019-01-18T12:39:44.379] [INFO] default - undefined
+[2019-01-18T12:40:03.982] [INFO] default - undefined
+[2019-01-18T12:42:12.008] [INFO] default - Generic Server Started
+[2019-01-18T12:42:12.078] [INFO] default - =============> Redis Server Connected Sucessfully <================
+[2019-01-18T12:42:13.147] [INFO] default - =============> Mongo Server Connected Sucessfully <================
+[2019-01-18T12:42:13.168] [INFO] default - {"length":14,"URL_QLIK_META_FETCH":"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1","QLIK_USER_DIRECTORY":"MAHINDRA","URL_NETWORK_PROXY":"http://talele-cont:mahindra@333@10.2.152.4:80","CONST_MASTER_USERID":"KAKKAJ-CONT","QLIK_APPID":"d2d69372-0872-4319-ab68-e2784c2db879","URL_QLIK_HOST":"qsdev.mahindra.com","URL_ENGIMA_WSS_CONNECTION":"wss://qliksensedev.corp.mahindra.com:4747/app","URL_MAIL_SERVER":"smtpin.falconide.com","MAIL_AUTH_USERNAME":"mahindrasamvaad","MAIL_AUTH_PASSWORD":"Mahindra@123","MAIL_APP_SUPPORT_FROM":"samvaad@mahindrasamvaad.com","MAIL_APP_SUPPORT_TO":"talele.gaurav@mahindra.com","CRON_JOB_TIME":"00 07 08 * * *","URL_META_FETCH_AND_UPDATE_CACHE":"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0"}
+[2019-01-18T12:42:49.050] [INFO] default - undefined
+[2019-01-18T12:45:39.272] [INFO] default - undefined
+[2019-01-18T12:46:22.989] [INFO] default - "kakkaj-cont|asdnbvasbdasdas|Month:DEC|FY Year:F19|Business_Unit:BSS & IT,EPC,INNOVATION CELL,MAHINDRA AGRI SOLUTIONS|Age_Group:18-25,25-35,35-45,45-55,Above 55,Below 18|Employee_Type:Officers"
+[2019-01-18T12:47:13.880] [INFO] default - "kakkaj-cont#asdnbvasbdasdas#Month:DEC|FY Year:F19|Business_Unit:BSS & IT,EPC,INNOVATION CELL,MAHINDRA AGRI SOLUTIONS|Age_Group:18-25,25-35,35-45,45-55,Above 55,Below 18|Employee_Type:Officers"
+[2019-01-18T12:51:07.132] [INFO] default - Ticket Genrated Sucessfully For UserKAKKAJ-CONT
+[2019-01-18T12:51:15.888] [INFO] default - Inside getAllowedSheets
+[2019-01-18T12:51:22.890] [INFO] default - "kakkaj-cont#QTJMSMI2NGQKYSK7#Sub Division:AGRI"
+[2019-01-18T12:51:43.634] [INFO] default - "kakkaj-cont#QTJMSMI2NGQKYSK7#Month:DEC|FY Year:F19|Employee_Type:Officers|Sub Division:AGRI"
+[2019-01-18T12:51:59.086] [INFO] default - "kakkaj-cont#QTJMSMI2NGQKYSK7#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-18T12:52:19.830] [INFO] default - "kakkaj-cont#QTJMSMI2NGQKYSK7#Month:DEC|FY Year:F19|Employee Category:Permanent|Employee_Type:Officers"
+[2019-01-18T12:56:00.935] [INFO] default - Ticket Genrated Sucessfully For UserKAKKAJ-CONT
+[2019-01-18T12:56:05.729] [INFO] default - "kakkaj-cont#32VKQ24VMFZU9O9V#Month:DEC|FY Year:F19|Employee Category:Permanent|Employee_Type:Officers"
+[2019-01-18T12:56:09.486] [INFO] default - Inside getAllowedSheets
+[2019-01-18T12:56:16.837] [INFO] default - "kakkaj-cont#32VKQ24VMFZU9O9V#Month:DEC|FY Year:F19|Employee Category:Permanent|Employee_Type:Officers"
+[2019-01-18T12:56:43.999] [INFO] default - "kakkaj-cont#32VKQ24VMFZU9O9V#Month:DEC|FY Year:F19|Employee Category:Contract|Employee_Type:Officers"
+[2019-01-18T13:00:19.858] [INFO] default - Ticket Genrated Sucessfully For UserKAKKAJ-CONT
+[2019-01-18T13:00:25.165] [INFO] default - "kakkaj-cont#YUKF6CYWEG2WTB76#Month:DEC|FY Year:F19|Employee Category:Contract|Employee_Type:Officers"
+[2019-01-18T13:00:28.359] [INFO] default - Inside getAllowedSheets
+[2019-01-18T13:01:30.035] [INFO] default - Ticket Genrated Sucessfully For UserKAKKAJ-CONT
+[2019-01-18T13:01:34.010] [INFO] default - "kakkaj-cont#FECXL0GQNI5RJLMJ#Month:DEC|FY Year:F19|Employee Category:Contract|Employee_Type:Officers"
+[2019-01-18T13:01:38.524] [INFO] default - Inside getAllowedSheets
+[2019-01-18T13:02:36.461] [INFO] default - Ticket Genrated Sucessfully For UserKAKKAJ-CONT
+[2019-01-18T13:02:40.755] [INFO] default - "kakkaj-cont#ET8B1T5ES0PDWGNS#Month:DEC|FY Year:F19|Employee Category:Contract|Employee_Type:Officers"
+[2019-01-18T13:02:44.931] [INFO] default - Inside getAllowedSheets
+[2019-01-18T13:02:52.923] [INFO] default - "kakkaj-cont#ET8B1T5ES0PDWGNS#Month:DEC|FY Year:F19|Employee Category:Contract|Employee_Type:Officers"
+[2019-01-18T13:02:59.268] [INFO] default - "kakkaj-cont#ET8B1T5ES0PDWGNS#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-18T13:05:10.839] [INFO] default - Ticket Genrated Sucessfully For UserKAKKAJ-CONT
+[2019-01-18T13:05:17.475] [INFO] default - "kakkaj-cont#6DFL0SV0GUE1RAXO#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-18T13:05:19.747] [INFO] default - Inside getAllowedSheets
+[2019-01-18T13:05:28.682] [INFO] default - "kakkaj-cont#6DFL0SV0GUE1RAXO#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-18T13:05:50.478] [INFO] default - "kakkaj-cont#6DFL0SV0GUE1RAXO#Month:DEC|FY Year:F19|Employee Category:Permanent|Employee_Type:Officers"
+[2019-01-18T13:06:21.485] [INFO] default - Generic Server Started
+[2019-01-18T13:06:21.496] [INFO] default - =============> Redis Server Connected Sucessfully <================
+[2019-01-18T13:06:22.513] [INFO] default - =============> Mongo Server Connected Sucessfully <================
+[2019-01-18T13:06:22.531] [INFO] default - {"length":14,"URL_QLIK_META_FETCH":"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1","QLIK_USER_DIRECTORY":"MAHINDRA","URL_NETWORK_PROXY":"http://talele-cont:mahindra@333@10.2.152.4:80","CONST_MASTER_USERID":"KAKKAJ-CONT","QLIK_APPID":"d2d69372-0872-4319-ab68-e2784c2db879","URL_QLIK_HOST":"qsdev.mahindra.com","URL_ENGIMA_WSS_CONNECTION":"wss://qliksensedev.corp.mahindra.com:4747/app","URL_MAIL_SERVER":"smtpin.falconide.com","MAIL_AUTH_USERNAME":"mahindrasamvaad","MAIL_AUTH_PASSWORD":"Mahindra@123","MAIL_APP_SUPPORT_FROM":"samvaad@mahindrasamvaad.com","MAIL_APP_SUPPORT_TO":"talele.gaurav@mahindra.com","CRON_JOB_TIME":"00 07 08 * * *","URL_META_FETCH_AND_UPDATE_CACHE":"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0"}
+[2019-01-18T13:09:57.241] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-CONT
+[2019-01-18T13:10:03.977] [INFO] default - "kakkaj-cont#XHPLUAEU7EHHS806#Month:DEC|FY Year:F19|Employee Category:Permanent|Employee_Type:Officers"
+[2019-01-18T13:10:05.780] [INFO] default - Inside getAllowedSheets
+[2019-01-18T13:10:55.753] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-CONT
+[2019-01-18T13:11:00.725] [INFO] default - "kakkaj-cont#MM6EHP0MN7483X31#Month:DEC|FY Year:F19|Employee Category:Permanent|Employee_Type:Officers"
+[2019-01-18T13:11:04.272] [INFO] default - Inside getAllowedSheets
+[2019-01-18T13:12:24.124] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-CONT
+[2019-01-18T13:12:29.890] [INFO] default - "kakkaj-cont#EFMORTWD96R1YGUZ#Month:DEC|FY Year:F19|Employee Category:Permanent|Employee_Type:Officers"
+[2019-01-18T13:12:33.722] [INFO] default - Inside getAllowedSheets
+[2019-01-18T13:12:50.010] [INFO] default - "kakkaj-cont#EFMORTWD96R1YGUZ#Month:DEC|FY Year:F19|Employee Category:Permanent|Employee_Type:Officers"
+[2019-01-18T13:15:51.727] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-CONT
+[2019-01-18T13:15:56.380] [INFO] default - "kakkaj-cont#5FDGH8TCJ9NVD5HG#Month:DEC|FY Year:F19|Employee Category:Permanent|Employee_Type:Officers"
+[2019-01-18T13:16:00.311] [INFO] default - Inside getAllowedSheets
+[2019-01-18T13:19:11.512] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-CONT
+[2019-01-18T13:19:16.222] [INFO] default - "kakkaj-cont#4ZOM641Q1K7TYCV0#Month:DEC|FY Year:F19|Employee Category:Permanent|Employee_Type:Officers"
+[2019-01-18T13:19:20.199] [INFO] default - Inside getAllowedSheets
+[2019-01-18T13:19:26.813] [INFO] default - "kakkaj-cont#4ZOM641Q1K7TYCV0#Month:DEC|FY Year:F19|Employee Category:Permanent|Employee_Type:Officers"
+[2019-01-18T13:19:36.366] [INFO] default - "{\"url\":\"https://qsdev.mahindra.com/extensions/HR_Phase1_action/HR_Phase1_action.html?reqType=1&objId=2d0143be-bc5a-446a-a125-a68af6bf927b&selReq=Month$FEB|Employee_Type$Officers|FY%20Year$F19&strAddObj=null&qlikTicket=dLza3SJny26ZEEll\",\"rating\":2,\"sessionId\":\"4ZOM641Q1K7TYCV0\"}"
+[2019-01-18T14:08:07.931] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-CONT
+[2019-01-18T14:08:15.485] [INFO] default - "kakkaj-cont#6IXAH4R0N2E0VRTE#-"
+[2019-01-18T14:08:16.998] [INFO] default - Inside getAllowedSheets
+[2019-01-18T14:08:26.357] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-CONT
+[2019-01-18T14:08:33.232] [INFO] default - "kakkaj-cont#6A8BTR1PK1UMOXSH#-"
+[2019-01-18T14:08:35.007] [INFO] default - Inside getAllowedSheets
+[2019-01-18T14:09:23.398] [INFO] default - "kakkaj-cont#6A8BTR1PK1UMOXSH#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-18T14:09:24.502] [INFO] default - "{\"url\":\"https://qsdev.mahindra.com/extensions/HR_Phase1_action/HR_Phase1_action.html?reqType=1&objId=2d0143be-bc5a-446a-a125-a68af6bf927b&selReq=Month$FEB|Employee_Type$Officers|FY%20Year$F19&strAddObj=null&qlikTicket=yBqQELlVaMVrwRsk\",\"rating\":3,\"sessionId\":\"6A8BTR1PK1UMOXSH\"}"
+[2019-01-18T14:10:44.850] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-CONT
+[2019-01-18T14:10:53.503] [INFO] default - "kakkaj-cont#FLGCPBNFVMR2Z1UJ#-"
+[2019-01-18T14:10:54.084] [INFO] default - Inside getAllowedSheets
+[2019-01-18T14:11:00.621] [INFO] default - "kakkaj-cont#FLGCPBNFVMR2Z1UJ#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-18T14:12:49.104] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-CONT
+[2019-01-18T14:12:55.426] [INFO] default - "kakkaj-cont#OBDUZF37QHQ0BZRO#-"
+[2019-01-18T14:12:57.725] [INFO] default - Inside getAllowedSheets
+[2019-01-18T14:13:11.161] [INFO] default - "kakkaj-cont#OBDUZF37QHQ0BZRO#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-18T14:13:27.256] [INFO] default - "{\"url\":\"https://qsdev.mahindra.com/extensions/HR_Phase1_action/HR_Phase1_action.html?reqType=1&objId=2d0143be-bc5a-446a-a125-a68af6bf927b&selReq=Month$FEB|Employee_Type$Officers|FY%20Year$F19&strAddObj=null&qlikTicket=54cKEHEP3KlT5cos\",\"rating\":2,\"sessionId\":\"OBDUZF37QHQ0BZRO\"}"
+[2019-01-18T14:14:42.046] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-CONT
+[2019-01-18T14:14:48.420] [INFO] default - "kakkaj-cont#JTRWP8V2WICC4JLQ#-"
+[2019-01-18T14:14:50.609] [INFO] default - Inside getAllowedSheets
+[2019-01-18T14:15:15.837] [INFO] default - "kakkaj-cont#JTRWP8V2WICC4JLQ#LinkDate1:>=01-12-2018<=29-12-2018"
+[2019-01-18T14:15:33.779] [INFO] default - "kakkaj-cont#JTRWP8V2WICC4JLQ#LinkDate1:>=01-12-2018<=29-12-2018|Employee:. A. Devendra Reddy (Akiti)"
+[2019-01-18T14:15:33.796] [INFO] default - "kakkaj-cont#JTRWP8V2WICC4JLQ#LinkDate1:>=01-12-2018<=29-12-2018|Employee:. A. Devendra Reddy (Akiti)"
+[2019-01-18T14:16:03.110] [INFO] default - "kakkaj-cont#JTRWP8V2WICC4JLQ#LinkDate1:>=01-12-2018<=29-12-2018"
+[2019-01-18T14:16:03.995] [INFO] default - "kakkaj-cont#JTRWP8V2WICC4JLQ#-"
+[2019-01-18T14:16:23.941] [INFO] default - "kakkaj-cont#JTRWP8V2WICC4JLQ#-"
+[2019-01-18T14:16:26.327] [INFO] default - Inside getAllowedSheets
+[2019-01-18T14:16:54.481] [INFO] default - "{\"url\":\"https://qsdev.mahindra.com/extensions/HR_Phase1_action/HR_Phase1_action.html?reqType=1&objId=2d0143be-bc5a-446a-a125-a68af6bf927b&selReq=Month$FEB|Employee_Type$Officers|FY%20Year$F19&strAddObj=null&qlikTicket=-P6-U6aFKfjCJwxx\",\"rating\":2,\"sessionId\":\"JTRWP8V2WICC4JLQ\"}"
+[2019-01-18T14:16:55.713] [INFO] default - "kakkaj-cont#JTRWP8V2WICC4JLQ#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-18T14:24:21.640] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-CONT
+[2019-01-18T14:24:29.235] [INFO] default - "kakkaj-cont#HCK2G5KRTOC0TJ7L#-"
+[2019-01-18T14:24:30.172] [INFO] default - Inside getAllowedSheets
+[2019-01-18T14:24:36.588] [INFO] default - "kakkaj-cont#HCK2G5KRTOC0TJ7L#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-18T14:26:11.568] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-CONT
+[2019-01-18T14:26:24.976] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-CONT
+[2019-01-18T14:26:31.509] [INFO] default - "kakkaj-cont#GNI54U28AFE6I9EJ#-"
+[2019-01-18T14:26:33.601] [INFO] default - Inside getAllowedSheets
+[2019-01-18T14:26:40.719] [INFO] default - "kakkaj-cont#GNI54U28AFE6I9EJ#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-18T14:26:47.786] [INFO] default - "kakkaj-cont#GNI54U28AFE6I9EJ#Month:DEC|FY Year:F19|Employee Category:Permanent|Employee_Type:Officers"
+[2019-01-18T14:36:56.236] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-CONT
+[2019-01-18T14:37:02.691] [INFO] default - "kakkaj-cont#7E2T8PO7IH6YGZ29#-"
+[2019-01-18T14:37:04.844] [INFO] default - Inside getAllowedSheets
+[2019-01-18T14:37:31.904] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-CONT
+[2019-01-18T14:38:01.582] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-CONT
+[2019-01-18T14:38:12.834] [INFO] default - "kakkaj-cont#GP6DSTETC3B25KL3#-"
+[2019-01-18T14:38:14.590] [INFO] default - Inside getAllowedSheets
+[2019-01-18T14:38:20.073] [INFO] default - "kakkaj-cont#GP6DSTETC3B25KL3#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-18T14:38:41.034] [INFO] default - "kakkaj-cont#GP6DSTETC3B25KL3#Month:DEC|FY Year:F19|Employee Category:Probationer|Employee_Type:Officers"
+[2019-01-18T14:38:55.291] [INFO] default - "kakkaj-cont#GP6DSTETC3B25KL3#Month:DEC|FY Year:F19|Employee Category:Probationer"
+[2019-01-18T14:38:56.257] [INFO] default - "kakkaj-cont#GP6DSTETC3B25KL3#Month:DEC|FY Year:F19"
+[2019-01-18T14:39:14.101] [INFO] default - "kakkaj-cont#GP6DSTETC3B25KL3#-"
+[2019-01-18T14:39:17.154] [INFO] default - Inside getAllowedSheets
+[2019-01-21T09:53:15.953] [INFO] default - Generic Server Started
+[2019-01-21T09:53:15.959] [INFO] default - =============> Redis Server Connected Sucessfully <================
+[2019-01-21T09:53:17.067] [INFO] default - =============> Mongo Server Connected Sucessfully <================
+[2019-01-21T09:53:17.108] [INFO] default - {"length":14,"URL_QLIK_META_FETCH":"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1","QLIK_USER_DIRECTORY":"MAHINDRA","URL_NETWORK_PROXY":"http://talele-cont:mahindra@333@10.2.152.4:80","CONST_MASTER_USERID":"KAKKAJ-CONT","QLIK_APPID":"d2d69372-0872-4319-ab68-e2784c2db879","URL_QLIK_HOST":"qsdev.mahindra.com","URL_ENGIMA_WSS_CONNECTION":"wss://qliksensedev.corp.mahindra.com:4747/app","URL_MAIL_SERVER":"smtpin.falconide.com","MAIL_AUTH_USERNAME":"mahindrasamvaad","MAIL_AUTH_PASSWORD":"Mahindra@123","MAIL_APP_SUPPORT_FROM":"samvaad@mahindrasamvaad.com","MAIL_APP_SUPPORT_TO":"talele.gaurav@mahindra.com","CRON_JOB_TIME":"00 07 08 * * *","URL_META_FETCH_AND_UPDATE_CACHE":"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0"}
+[2019-01-21T10:42:25.016] [INFO] default - Redis Key Exists
+[2019-01-21T10:42:25.036] [INFO] default - Successfully Sent Cached MetaData from Redis CACHE
+[2019-01-21T10:43:12.725] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-CONT
+[2019-01-21T10:45:08.673] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-CONT
+[2019-01-21T10:58:50.926] [INFO] default - Inside getAllowedSheets
+[2019-01-21T10:59:41.499] [ERROR] default - Error While generating Ticket
+[2019-01-21T14:29:29.339] [INFO] default - Generic Server Started
+[2019-01-21T14:29:29.347] [INFO] default - =============> Redis Server Connected Sucessfully <================
+[2019-01-21T14:29:30.387] [INFO] default - =============> Mongo Server Connected Sucessfully <================
+[2019-01-21T14:29:30.422] [INFO] default - {"length":14,"URL_QLIK_META_FETCH":"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1","QLIK_USER_DIRECTORY":"MAHINDRA","URL_NETWORK_PROXY":"http://talele-cont:mahindra@333@10.2.152.4:80","CONST_MASTER_USERID":"KAKKAJ-CONT","QLIK_APPID":"d2d69372-0872-4319-ab68-e2784c2db879","URL_QLIK_HOST":"qsdev.mahindra.com","URL_ENGIMA_WSS_CONNECTION":"wss://qliksensedev.corp.mahindra.com:4747/app","URL_MAIL_SERVER":"smtpin.falconide.com","MAIL_AUTH_USERNAME":"mahindrasamvaad","MAIL_AUTH_PASSWORD":"Mahindra@123","MAIL_APP_SUPPORT_FROM":"samvaad@mahindrasamvaad.com","MAIL_APP_SUPPORT_TO":"talele.gaurav@mahindra.com","CRON_JOB_TIME":"00 07 08 * * *","URL_META_FETCH_AND_UPDATE_CACHE":"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0"}
+[2019-01-21T14:30:59.491] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-CONT
+[2019-01-21T14:30:59.546] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-CONT
+[2019-01-21T14:31:11.617] [INFO] default - Inside getAllowedSheets
+[2019-01-21T14:31:33.610] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-CONT
+[2019-01-21T14:31:45.161] [INFO] default - Inside getAllowedSheets
+[2019-01-21T14:32:04.771] [INFO] default - "kakkaj-cont#108JDBY0E2MPGWFU#-"
+[2019-01-21T14:33:37.956] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-CONT
+[2019-01-21T14:33:47.018] [INFO] default - Inside getAllowedSheets
+[2019-01-21T14:34:08.196] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-CONT
+[2019-01-21T14:34:17.523] [INFO] default - Inside getAllowedSheets
+[2019-01-21T14:34:32.858] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-CONT
+[2019-01-21T14:34:42.112] [INFO] default - Inside getAllowedSheets
+[2019-01-21T14:34:47.576] [INFO] default - "kakkaj-cont#9VZ2M2RXXSJYP4NQ#-"
+[2019-01-21T14:36:00.401] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-CONT
+[2019-01-21T14:36:09.455] [INFO] default - Inside getAllowedSheets
+[2019-01-21T14:37:13.077] [INFO] default - Generic Server Started
+[2019-01-21T14:37:13.081] [INFO] default - =============> Redis Server Connected Sucessfully <================
+[2019-01-21T14:37:14.104] [INFO] default - =============> Mongo Server Connected Sucessfully <================
+[2019-01-21T14:37:14.125] [INFO] default - {"length":14,"URL_QLIK_META_FETCH":"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1","QLIK_USER_DIRECTORY":"MAHINDRA","URL_NETWORK_PROXY":"http://talele-cont:mahindra@333@10.2.152.4:80","CONST_MASTER_USERID":"KAKKAJ-CONT","QLIK_APPID":"d2d69372-0872-4319-ab68-e2784c2db879","URL_QLIK_HOST":"qsdev.mahindra.com","URL_ENGIMA_WSS_CONNECTION":"wss://qliksensedev.corp.mahindra.com:4747/app","URL_MAIL_SERVER":"smtpin.falconide.com","MAIL_AUTH_USERNAME":"mahindrasamvaad","MAIL_AUTH_PASSWORD":"Mahindra@123","MAIL_APP_SUPPORT_FROM":"samvaad@mahindrasamvaad.com","MAIL_APP_SUPPORT_TO":"talele.gaurav@mahindra.com","CRON_JOB_TIME":"00 07 08 * * *","URL_META_FETCH_AND_UPDATE_CACHE":"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0"}
+[2019-01-21T14:37:36.821] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-CONT
+[2019-01-21T14:37:45.842] [INFO] default - Inside getAllowedSheets
+[2019-01-21T14:38:08.424] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-CONT
+[2019-01-21T14:38:17.475] [INFO] default - Inside getAllowedSheets
+[2019-01-21T14:38:38.427] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-CONT
+[2019-01-21T14:38:47.494] [INFO] default - Inside getAllowedSheets
+[2019-01-21T14:38:53.898] [INFO] default - "kakkaj-cont#0JHWUXW70H5M4FML#-"
+[2019-01-21T14:39:12.348] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-CONT
+[2019-01-21T14:39:22.024] [INFO] default - Inside getAllowedSheets
+[2019-01-21T14:39:43.391] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-CONT
+[2019-01-21T14:39:48.821] [INFO] default - "kakkaj-cont#G9QNTG2U38GS9NCI#-"
+[2019-01-21T14:39:51.453] [ERROR] default - Error While generating Ticket
+[2019-01-21T14:40:00.668] [INFO] default - Inside getAllowedSheets
+[2019-01-21T14:40:20.275] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-cont
+[2019-01-21T14:40:46.715] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-cont
+[2019-01-21T14:40:55.712] [INFO] default - Inside getAllowedSheets
+[2019-01-21T14:41:26.832] [INFO] default - "talega-cont#FLK0M7DR0UPEUXY3#-"
+[2019-01-21T14:42:20.465] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-cont
+[2019-01-21T14:46:26.697] [INFO] default - Generic Server Started
+[2019-01-21T14:46:26.702] [INFO] default - =============> Redis Server Connected Sucessfully <================
+[2019-01-21T14:46:27.744] [INFO] default - =============> Mongo Server Connected Sucessfully <================
+[2019-01-21T14:46:27.765] [INFO] default - {"length":14,"URL_QLIK_META_FETCH":"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1","QLIK_USER_DIRECTORY":"MAHINDRA","URL_NETWORK_PROXY":"http://talele-cont:mahindra@333@10.2.152.4:80","CONST_MASTER_USERID":"KAKKAJ-CONT","QLIK_APPID":"d2d69372-0872-4319-ab68-e2784c2db879","URL_QLIK_HOST":"qsdev.mahindra.com","URL_ENGIMA_WSS_CONNECTION":"wss://qliksensedev.corp.mahindra.com:4747/app","URL_MAIL_SERVER":"smtpin.falconide.com","MAIL_AUTH_USERNAME":"mahindrasamvaad","MAIL_AUTH_PASSWORD":"Mahindra@123","MAIL_APP_SUPPORT_FROM":"samvaad@mahindrasamvaad.com","MAIL_APP_SUPPORT_TO":"talele.gaurav@mahindra.com","CRON_JOB_TIME":"00 07 08 * * *","URL_META_FETCH_AND_UPDATE_CACHE":"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0"}
+[2019-01-21T14:55:14.704] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-cont
+[2019-01-21T14:55:30.143] [INFO] default - "talega-cont#UYXOEQUC97ZKSQXX#-"
+[2019-01-21T14:56:39.863] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-cont
+[2019-01-21T14:56:48.270] [INFO] default - Inside getAllowedSheets
+[2019-01-21T14:56:55.693] [INFO] default - "talega-cont#WSYQAV6FVKFYSMFE#-"
+[2019-01-21T14:57:22.505] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-cont
+[2019-01-21T14:57:28.953] [INFO] default - "talega-cont#OQOBLKH24WH029DQ#-"
+[2019-01-21T14:57:33.123] [INFO] default - Inside getAllowedSheets
+[2019-01-21T14:58:04.731] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-cont
+[2019-01-21T14:58:15.720] [INFO] default - Inside getAllowedSheets
+[2019-01-21T14:59:29.128] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-cont
+[2019-01-21T14:59:39.667] [INFO] default - Inside getAllowedSheets
+[2019-01-21T15:00:04.732] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-cont
+[2019-01-21T15:00:12.110] [INFO] default - Inside getAllowedSheets
+[2019-01-21T15:00:47.826] [INFO] default - "talega-cont#EZ1LCMP35XD3E6BW#-"
+[2019-01-21T15:01:36.815] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-cont
+[2019-01-21T15:01:43.424] [INFO] default - "talega-cont#LJ1YXA3EP6A3FUSY#-"
+[2019-01-21T15:01:43.805] [INFO] default - Inside getAllowedSheets
+[2019-01-21T15:01:59.943] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-cont
+[2019-01-21T15:02:06.995] [INFO] default - "talega-cont#DU0SMOQCRE4JNP53#-"
+[2019-01-21T15:02:07.883] [INFO] default - Inside getAllowedSheets
+[2019-01-21T15:02:36.086] [INFO] default - Ticket Genrated Sucessfully For User KAAKAJ-cont
+[2019-01-21T15:03:06.629] [INFO] default - Ticket Genrated Sucessfully For User KAAKAJ-CONT
+[2019-01-21T15:03:19.678] [INFO] default - Generic Server Started
+[2019-01-21T15:03:19.683] [INFO] default - =============> Redis Server Connected Sucessfully <================
+[2019-01-21T15:03:20.724] [INFO] default - =============> Mongo Server Connected Sucessfully <================
+[2019-01-21T15:03:20.745] [INFO] default - {"length":14,"URL_QLIK_META_FETCH":"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1","QLIK_USER_DIRECTORY":"MAHINDRA","URL_NETWORK_PROXY":"http://talele-cont:mahindra@333@10.2.152.4:80","CONST_MASTER_USERID":"KAKKAJ-CONT","QLIK_APPID":"d2d69372-0872-4319-ab68-e2784c2db879","URL_QLIK_HOST":"qsdev.mahindra.com","URL_ENGIMA_WSS_CONNECTION":"wss://qliksensedev.corp.mahindra.com:4747/app","URL_MAIL_SERVER":"smtpin.falconide.com","MAIL_AUTH_USERNAME":"mahindrasamvaad","MAIL_AUTH_PASSWORD":"Mahindra@123","MAIL_APP_SUPPORT_FROM":"samvaad@mahindrasamvaad.com","MAIL_APP_SUPPORT_TO":"talele.gaurav@mahindra.com","CRON_JOB_TIME":"00 07 08 * * *","URL_META_FETCH_AND_UPDATE_CACHE":"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0"}
+[2019-01-21T15:03:43.159] [ERROR] default - Error While generating Ticket
+[2019-01-21T15:03:52.453] [INFO] default - Generic Server Started
+[2019-01-21T15:03:52.458] [INFO] default - =============> Redis Server Connected Sucessfully <================
+[2019-01-21T15:03:53.482] [INFO] default - =============> Mongo Server Connected Sucessfully <================
+[2019-01-21T15:03:53.503] [INFO] default - {"length":14,"URL_QLIK_META_FETCH":"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1","QLIK_USER_DIRECTORY":"MAHINDRA","URL_NETWORK_PROXY":"http://talele-cont:mahindra@333@10.2.152.4:80","CONST_MASTER_USERID":"KAKKAJ-CONT","QLIK_APPID":"d2d69372-0872-4319-ab68-e2784c2db879","URL_QLIK_HOST":"qsdev.mahindra.com","URL_ENGIMA_WSS_CONNECTION":"wss://qliksensedev.corp.mahindra.com:4747/app","URL_MAIL_SERVER":"smtpin.falconide.com","MAIL_AUTH_USERNAME":"mahindrasamvaad","MAIL_AUTH_PASSWORD":"Mahindra@123","MAIL_APP_SUPPORT_FROM":"samvaad@mahindrasamvaad.com","MAIL_APP_SUPPORT_TO":"talele.gaurav@mahindra.com","CRON_JOB_TIME":"00 07 08 * * *","URL_META_FETCH_AND_UPDATE_CACHE":"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0"}
+[2019-01-21T15:04:04.010] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-CONT
+[2019-01-21T15:04:11.272] [INFO] default - Inside getAllowedSheets
+[2019-01-21T15:04:43.377] [INFO] default - "talega-cont#50OO8V7J43LM546S#-"
+[2019-01-21T15:05:28.156] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-CONT
+[2019-01-21T15:05:34.497] [INFO] default - "talega-cont#A5JDOJ9OSAC68EUQ#-"
+[2019-01-21T15:05:35.234] [INFO] default - Inside getAllowedSheets
+[2019-01-21T15:06:16.560] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-CONT
+[2019-01-21T15:06:27.263] [INFO] default - Inside getAllowedSheets
+[2019-01-21T15:06:31.915] [INFO] default - "talega-cont#TP9VS6OQP6N3UKW9#-"
+[2019-01-21T15:06:58.173] [INFO] default - "undefined#undefined#-"
+[2019-01-21T15:15:06.565] [INFO] default - Redis Key Exists
+[2019-01-21T15:15:06.582] [INFO] default - Successfully Sent Cached MetaData from Redis CACHE
+[2019-01-21T15:16:40.412] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-CONT
+[2019-01-21T15:16:50.950] [INFO] default - Inside getAllowedSheets
+[2019-01-21T15:17:02.842] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-CONT
+[2019-01-21T15:17:09.033] [INFO] default - "talega-cont#KY75JAUODHU5L40A#-"
+[2019-01-21T15:17:13.363] [INFO] default - Inside getAllowedSheets
+[2019-01-21T15:17:35.364] [INFO] default - "talega-cont#KY75JAUODHU5L40A#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-21T15:20:56.039] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-CONT
+[2019-01-21T15:21:06.679] [INFO] default - Inside getAllowedSheets
+[2019-01-21T15:21:21.087] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-CONT
+[2019-01-21T15:21:24.891] [INFO] default - "talega-cont#OC7FV3M3TS9HQAKZ#-"
+[2019-01-21T15:21:31.598] [INFO] default - Inside getAllowedSheets
+[2019-01-21T15:21:50.851] [INFO] default - "talega-cont#OC7FV3M3TS9HQAKZ#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-21T15:23:04.015] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-CONT
+[2019-01-21T15:23:08.154] [INFO] default - "talega-cont#6MQGCG64Z25XIEW8#-"
+[2019-01-21T15:23:14.487] [INFO] default - Inside getAllowedSheets
+[2019-01-21T15:32:03.610] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-CONT
+[2019-01-21T15:32:04.736] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-CONT
+[2019-01-21T15:32:14.236] [INFO] default - Inside getAllowedSheets
+[2019-01-21T15:32:20.651] [INFO] default - "talega-cont#G3GT24MM0Q5YPBLG#-"
+[2019-01-21T15:33:29.533] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-CONT
+[2019-01-21T15:33:35.707] [INFO] default - Inside getAllowedSheets
+[2019-01-21T15:34:28.706] [INFO] default - "talega-cont#3BSUWEVFVZX60RJK#-"
+[2019-01-21T15:35:09.178] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-CONT
+[2019-01-21T15:35:12.899] [INFO] default - "talega-cont#XU586ERIXSQPMH60#-"
+[2019-01-21T15:35:19.697] [INFO] default - Inside getAllowedSheets
+[2019-01-21T15:35:34.483] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-CONT
+[2019-01-21T15:35:38.365] [INFO] default - "talega-cont#OHC89FAAA15VMUL9#-"
+[2019-01-21T15:35:44.954] [INFO] default - Inside getAllowedSheets
+[2019-01-21T15:36:55.911] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-CONT
+[2019-01-21T15:37:02.707] [INFO] default - "talega-cont#Q381XU4IH9I2A359#-"
+[2019-01-21T15:37:06.457] [INFO] default - Inside getAllowedSheets
+[2019-01-21T15:37:25.235] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-CONT
+[2019-01-21T15:37:36.220] [INFO] default - Inside getAllowedSheets
+[2019-01-21T15:37:52.111] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-CONT
+[2019-01-21T15:37:56.835] [INFO] default - "talega-cont#MVZSAROXZH9Z8MIP#-"
+[2019-01-21T15:38:02.868] [INFO] default - Inside getAllowedSheets
+[2019-01-21T15:38:23.849] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-CONT
+[2019-01-21T15:38:28.378] [INFO] default - "talega-cont#5KJN406EM6U4GQ4N#-"
+[2019-01-21T15:38:34.985] [INFO] default - Inside getAllowedSheets
+[2019-01-21T15:38:53.956] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-cont
+[2019-01-21T15:39:04.495] [INFO] default - "kakkaj-cont#90MGTTULKSD7N084#-"
+[2019-01-21T15:39:04.635] [INFO] default - Inside getAllowedSheets
+[2019-01-21T15:39:19.359] [INFO] default - "kakkaj-cont#90MGTTULKSD7N084#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-21T15:39:46.025] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-cont
+[2019-01-21T15:39:57.702] [INFO] default - Inside getAllowedSheets
+[2019-01-21T15:40:06.334] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-cont
+[2019-01-21T15:40:17.051] [INFO] default - Inside getAllowedSheets
+[2019-01-21T15:41:40.070] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-cont
+[2019-01-21T15:41:44.355] [INFO] default - "kakkaj-cont#TTB91B7MS0PODX70#-"
+[2019-01-21T15:41:50.567] [INFO] default - Inside getAllowedSheets
+[2019-01-21T15:44:05.486] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-cont
+[2019-01-21T15:44:09.734] [INFO] default - "kakkaj-cont#PY0VTCGCMZJRPD7M#-"
+[2019-01-21T15:44:16.107] [INFO] default - Inside getAllowedSheets
+[2019-01-21T15:44:27.284] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-cont
+[2019-01-21T15:44:31.221] [INFO] default - "kakkaj-cont#5986W652MCOXW8HZ#-"
+[2019-01-21T15:44:37.929] [INFO] default - Inside getAllowedSheets
+[2019-01-21T15:52:31.270] [INFO] default - Redis Key Exists
+[2019-01-21T15:52:31.285] [INFO] default - Successfully Sent Cached MetaData from Redis CACHE
+[2019-01-21T15:55:44.652] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-cont
+[2019-01-21T15:55:49.144] [INFO] default - "kakkaj-cont#V1DO48QP5GMUIP5M#-"
+[2019-01-21T15:55:55.368] [INFO] default - Inside getAllowedSheets
+[2019-01-21T15:56:08.049] [INFO] default - "kakkaj-cont#V1DO48QP5GMUIP5M#FY Year:F19|Employee_Type:Officers"
+[2019-01-21T15:59:40.242] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-cont
+[2019-01-21T15:59:50.670] [INFO] default - Inside getAllowedSheets
+[2019-01-21T15:59:51.079] [INFO] default - "kakkaj-cont#N0CHS07YV6T60J8K#-"
+[2019-01-21T16:00:00.901] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-cont
+[2019-01-21T16:00:04.507] [INFO] default - "kakkaj-cont#WVQHR5COIEDA1SNW#-"
+[2019-01-21T16:00:11.437] [INFO] default - Inside getAllowedSheets
+[2019-01-21T16:01:28.358] [INFO] default - "{\"url\":\"https://qsdev.mahindra.com/extensions/HR_Phase1_action/HR_Phase1_action.html?reqType=1&objId=2d0143be-bc5a-446a-a125-a68af6bf927b&selReq=Month$FEB|Employee_Type$Officers|FY%20Year$F19&strAddObj=null&qlikTicket=QzpuyavazP6Cu0bI\",\"rating\":2,\"sessionId\":\"WVQHR5COIEDA1SNW\"}"
+[2019-01-21T16:02:16.111] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-cont
+[2019-01-21T16:02:26.747] [INFO] default - Inside getAllowedSheets
+[2019-01-21T16:02:27.121] [INFO] default - "kakkaj-cont#K4E7LJS1N17DTQRD#Month:DEC|FY Year:F19|Employee Category:Permanent|Employee_Type:Officers"
+[2019-01-21T16:02:32.086] [INFO] default - "kakkaj-cont#K4E7LJS1N17DTQRD#Month:DEC|FY Year:F19|Employee Category:Permanent|Employee_Type:Officers"
+[2019-01-21T16:05:31.288] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-cont
+[2019-01-21T16:05:42.171] [INFO] default - Inside getAllowedSheets
+[2019-01-21T16:05:55.455] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-cont
+[2019-01-21T16:06:05.883] [INFO] default - Inside getAllowedSheets
+[2019-01-21T16:06:18.057] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-cont
+[2019-01-21T16:06:28.623] [INFO] default - Inside getAllowedSheets
+[2019-01-21T16:06:31.897] [INFO] default - "talega-cont#XARBVE2G82KK4187#-"
+[2019-01-21T16:07:18.750] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-cont
+[2019-01-21T16:07:29.233] [INFO] default - Inside getAllowedSheets
+[2019-01-21T16:08:25.139] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-cont
+[2019-01-21T16:08:29.396] [INFO] default - "talega-cont#OS31G5NGO9SGCEZK#-"
+[2019-01-21T16:08:30.636] [INFO] default - Inside getAllowedSheets
+[2019-01-21T16:08:43.922] [INFO] default - "talega-cont#OS31G5NGO9SGCEZK#FY Year:F19"
+[2019-01-21T16:09:05.304] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-cont
+[2019-01-21T16:09:09.259] [INFO] default - "talega-cont#5C8K30RLTEA9OLJY#-"
+[2019-01-21T16:09:10.752] [INFO] default - Inside getAllowedSheets
+[2019-01-21T16:09:22.785] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-cont
+[2019-01-21T16:09:34.880] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-cont
+[2019-01-21T16:09:39.080] [INFO] default - "talega-cont#W589C878AUZW1GE2#-"
+[2019-01-21T16:09:40.532] [INFO] default - Inside getAllowedSheets
+[2019-01-21T16:09:52.021] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-cont
+[2019-01-21T16:09:57.496] [INFO] default - Inside getAllowedSheets
+[2019-01-21T16:10:08.612] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-cont
+[2019-01-21T16:10:11.859] [INFO] default - "kakkaj-cont#YJ5G6A22PNS0GUS3#-"
+[2019-01-21T16:10:14.083] [INFO] default - Inside getAllowedSheets
+[2019-01-21T16:10:38.192] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-cont
+[2019-01-21T16:10:42.101] [INFO] default - "kakkaj-cont#A4RXB35840J431L3#-"
+[2019-01-21T16:10:45.665] [INFO] default - Inside getAllowedSheets
+[2019-01-21T16:11:00.674] [INFO] default - Ticket Genrated Sucessfully For User TALEGA-cont
+[2019-01-21T16:11:04.388] [INFO] default - "talega-cont#T10VCETKYI836DNU#-"
+[2019-01-21T16:11:08.134] [INFO] default - Inside getAllowedSheets
+[2019-01-21T16:11:33.655] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-cont
+[2019-01-21T16:11:41.232] [INFO] default - Inside getAllowedSheets
+[2019-01-21T16:11:46.472] [INFO] default - "kakkaj-cont#JIZLMQP6YBPEFILO#-"
+[2019-01-21T16:12:45.099] [INFO] default - Ticket Genrated Sucessfully For User KAKKAJ-cont
+[2019-01-21T16:12:50.563] [INFO] default - "kakkaj-cont#09DS9SN01SMOCXI8#-"
+[2019-01-21T16:12:52.546] [INFO] default - Inside getAllowedSheets
+[2019-01-21T16:13:03.722] [INFO] default - Ticket Genrated Sucessfully For User talega-cont
+[2019-01-21T16:13:07.680] [INFO] default - "talega-cont#3WXCN4TK0HCE87MU#-"
+[2019-01-21T16:13:11.189] [INFO] default - Inside getAllowedSheets
+[2019-01-21T16:19:35.100] [INFO] default - Generic Server Started
+[2019-01-21T16:19:35.106] [INFO] default - =============> Redis Server Connected Sucessfully <================
+[2019-01-21T16:19:36.121] [INFO] default - =============> Mongo Server Connected Sucessfully <================
+[2019-01-21T16:19:36.135] [INFO] default - {"length":14,"URL_QLIK_META_FETCH":"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1","QLIK_USER_DIRECTORY":"MAHINDRA","URL_NETWORK_PROXY":"http://talele-cont:mahindra@333@10.2.152.4:80","CONST_MASTER_USERID":"KAKKAJ-CONT","QLIK_APPID":"d2d69372-0872-4319-ab68-e2784c2db879","URL_QLIK_HOST":"qsdev.mahindra.com","URL_ENGIMA_WSS_CONNECTION":"wss://qliksensedev.corp.mahindra.com:4747/app","URL_MAIL_SERVER":"smtpin.falconide.com","MAIL_AUTH_USERNAME":"mahindrasamvaad","MAIL_AUTH_PASSWORD":"Mahindra@123","MAIL_APP_SUPPORT_FROM":"samvaad@mahindrasamvaad.com","MAIL_APP_SUPPORT_TO":"talele.gaurav@mahindra.com","CRON_JOB_TIME":"00 07 08 * * *","URL_META_FETCH_AND_UPDATE_CACHE":"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0"}
+[2019-01-21T16:20:33.515] [INFO] default - Generic Server Started
+[2019-01-21T16:20:33.522] [INFO] default - =============> Redis Server Connected Sucessfully <================
+[2019-01-21T16:20:34.537] [INFO] default - =============> Mongo Server Connected Sucessfully <================
+[2019-01-21T16:20:34.550] [INFO] default - {"length":14,"URL_QLIK_META_FETCH":"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1","QLIK_USER_DIRECTORY":"MAHINDRA","URL_NETWORK_PROXY":"http://talele-cont:mahindra@333@10.2.152.4:80","CONST_MASTER_USERID":"KAKKAJ-CONT","QLIK_APPID":"d2d69372-0872-4319-ab68-e2784c2db879","URL_QLIK_HOST":"qsdev.mahindra.com","URL_ENGIMA_WSS_CONNECTION":"wss://qliksensedev.corp.mahindra.com:4747/app","URL_MAIL_SERVER":"smtpin.falconide.com","MAIL_AUTH_USERNAME":"mahindrasamvaad","MAIL_AUTH_PASSWORD":"Mahindra@123","MAIL_APP_SUPPORT_FROM":"samvaad@mahindrasamvaad.com","MAIL_APP_SUPPORT_TO":"talele.gaurav@mahindra.com","CRON_JOB_TIME":"00 07 08 * * *","URL_META_FETCH_AND_UPDATE_CACHE":"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0"}
+[2019-01-21T16:21:00.394] [INFO] default - Generic Server Started
+[2019-01-21T16:21:00.431] [INFO] default - =============> Redis Server Connected Sucessfully <================
+[2019-01-21T16:21:01.489] [INFO] default - =============> Mongo Server Connected Sucessfully <================
+[2019-01-21T16:21:01.517] [INFO] default - {"length":14,"URL_QLIK_META_FETCH":"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1","QLIK_USER_DIRECTORY":"MAHINDRA","URL_NETWORK_PROXY":"http://talele-cont:mahindra@333@10.2.152.4:80","CONST_MASTER_USERID":"KAKKAJ-CONT","QLIK_APPID":"d2d69372-0872-4319-ab68-e2784c2db879","URL_QLIK_HOST":"qsdev.mahindra.com","URL_ENGIMA_WSS_CONNECTION":"wss://qliksensedev.corp.mahindra.com:4747/app","URL_MAIL_SERVER":"smtpin.falconide.com","MAIL_AUTH_USERNAME":"mahindrasamvaad","MAIL_AUTH_PASSWORD":"Mahindra@123","MAIL_APP_SUPPORT_FROM":"samvaad@mahindrasamvaad.com","MAIL_APP_SUPPORT_TO":"talele.gaurav@mahindra.com","CRON_JOB_TIME":"00 07 08 * * *","URL_META_FETCH_AND_UPDATE_CACHE":"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0"}
+[2019-01-21T16:25:48.038] [INFO] default - Generic Server Started
+[2019-01-21T16:25:48.083] [INFO] default - =============> Redis Server Connected Sucessfully <================
+[2019-01-21T16:25:49.129] [INFO] default - =============> Mongo Server Connected Sucessfully <================
+[2019-01-21T16:25:49.153] [INFO] default - {"length":14,"URL_QLIK_META_FETCH":"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1","QLIK_USER_DIRECTORY":"MAHINDRA","URL_NETWORK_PROXY":"http://talele-cont:mahindra@333@10.2.152.4:80","CONST_MASTER_USERID":"KAKKAJ-CONT","QLIK_APPID":"d2d69372-0872-4319-ab68-e2784c2db879","URL_QLIK_HOST":"qsdev.mahindra.com","URL_ENGIMA_WSS_CONNECTION":"wss://qliksensedev.corp.mahindra.com:4747/app","URL_MAIL_SERVER":"smtpin.falconide.com","MAIL_AUTH_USERNAME":"mahindrasamvaad","MAIL_AUTH_PASSWORD":"Mahindra@123","MAIL_APP_SUPPORT_FROM":"samvaad@mahindrasamvaad.com","MAIL_APP_SUPPORT_TO":"talele.gaurav@mahindra.com","CRON_JOB_TIME":"00 07 08 * * *","URL_META_FETCH_AND_UPDATE_CACHE":"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0"}
+[2019-01-21T16:26:13.928] [INFO] default - Generic Server Started
+[2019-01-21T16:26:13.934] [INFO] default - =============> Redis Server Connected Sucessfully <================
+[2019-01-21T16:26:14.984] [INFO] default - =============> Mongo Server Connected Sucessfully <================
+[2019-01-21T16:26:15.039] [INFO] default - {"length":14,"URL_QLIK_META_FETCH":"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1","QLIK_USER_DIRECTORY":"MAHINDRA","URL_NETWORK_PROXY":"http://talele-cont:mahindra@333@10.2.152.4:80","CONST_MASTER_USERID":"KAKKAJ-CONT","QLIK_APPID":"d2d69372-0872-4319-ab68-e2784c2db879","URL_QLIK_HOST":"qsdev.mahindra.com","URL_ENGIMA_WSS_CONNECTION":"wss://qliksensedev.corp.mahindra.com:4747/app","URL_MAIL_SERVER":"smtpin.falconide.com","MAIL_AUTH_USERNAME":"mahindrasamvaad","MAIL_AUTH_PASSWORD":"Mahindra@123","MAIL_APP_SUPPORT_FROM":"samvaad@mahindrasamvaad.com","MAIL_APP_SUPPORT_TO":"talele.gaurav@mahindra.com","CRON_JOB_TIME":"00 07 08 * * *","URL_META_FETCH_AND_UPDATE_CACHE":"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0"}
+[2019-01-21T16:26:35.528] [INFO] default - "Generic Server Started"
+[2019-01-21T16:26:35.571] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-21T16:26:36.629] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-21T16:26:36.674] [INFO] default - "{\"length\":14,\"URL_QLIK_META_FETCH\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1\",\"QLIK_USER_DIRECTORY\":\"MAHINDRA\",\"URL_NETWORK_PROXY\":\"http://talele-cont:mahindra@333@10.2.152.4:80\",\"CONST_MASTER_USERID\":\"KAKKAJ-CONT\",\"QLIK_APPID\":\"d2d69372-0872-4319-ab68-e2784c2db879\",\"URL_QLIK_HOST\":\"qsdev.mahindra.com\",\"URL_ENGIMA_WSS_CONNECTION\":\"wss://qliksensedev.corp.mahindra.com:4747/app\",\"URL_MAIL_SERVER\":\"smtpin.falconide.com\",\"MAIL_AUTH_USERNAME\":\"mahindrasamvaad\",\"MAIL_AUTH_PASSWORD\":\"Mahindra@123\",\"MAIL_APP_SUPPORT_FROM\":\"samvaad@mahindrasamvaad.com\",\"MAIL_APP_SUPPORT_TO\":\"talele.gaurav@mahindra.com\",\"CRON_JOB_TIME\":\"00 07 08 * * *\",\"URL_META_FETCH_AND_UPDATE_CACHE\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0\"}"
+[2019-01-21T16:27:17.764] [INFO] default - "Generic Server Started"
+[2019-01-21T16:27:17.771] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-21T16:27:18.823] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-21T16:27:18.853] [INFO] default - "{\"length\":14,\"URL_QLIK_META_FETCH\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1\",\"QLIK_USER_DIRECTORY\":\"MAHINDRA\",\"URL_NETWORK_PROXY\":\"http://talele-cont:mahindra@333@10.2.152.4:80\",\"CONST_MASTER_USERID\":\"KAKKAJ-CONT\",\"QLIK_APPID\":\"d2d69372-0872-4319-ab68-e2784c2db879\",\"URL_QLIK_HOST\":\"qsdev.mahindra.com\",\"URL_ENGIMA_WSS_CONNECTION\":\"wss://qliksensedev.corp.mahindra.com:4747/app\",\"URL_MAIL_SERVER\":\"smtpin.falconide.com\",\"MAIL_AUTH_USERNAME\":\"mahindrasamvaad\",\"MAIL_AUTH_PASSWORD\":\"Mahindra@123\",\"MAIL_APP_SUPPORT_FROM\":\"samvaad@mahindrasamvaad.com\",\"MAIL_APP_SUPPORT_TO\":\"talele.gaurav@mahindra.com\",\"CRON_JOB_TIME\":\"00 07 08 * * *\",\"URL_META_FETCH_AND_UPDATE_CACHE\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0\"}"
+[2019-01-21T16:27:28.061] [INFO] default - "Generic Server Started"
+[2019-01-21T16:27:28.067] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-21T16:27:29.098] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-21T16:27:29.125] [INFO] default - "{\"length\":14,\"URL_QLIK_META_FETCH\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1\",\"QLIK_USER_DIRECTORY\":\"MAHINDRA\",\"URL_NETWORK_PROXY\":\"http://talele-cont:mahindra@333@10.2.152.4:80\",\"CONST_MASTER_USERID\":\"KAKKAJ-CONT\",\"QLIK_APPID\":\"d2d69372-0872-4319-ab68-e2784c2db879\",\"URL_QLIK_HOST\":\"qsdev.mahindra.com\",\"URL_ENGIMA_WSS_CONNECTION\":\"wss://qliksensedev.corp.mahindra.com:4747/app\",\"URL_MAIL_SERVER\":\"smtpin.falconide.com\",\"MAIL_AUTH_USERNAME\":\"mahindrasamvaad\",\"MAIL_AUTH_PASSWORD\":\"Mahindra@123\",\"MAIL_APP_SUPPORT_FROM\":\"samvaad@mahindrasamvaad.com\",\"MAIL_APP_SUPPORT_TO\":\"talele.gaurav@mahindra.com\",\"CRON_JOB_TIME\":\"00 07 08 * * *\",\"URL_META_FETCH_AND_UPDATE_CACHE\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0\"}"
+[2019-01-21T16:27:37.494] [INFO] default - "{\"url\":\"https://qsdev.mahindra.com/extensions/HR_Phase1_action/HR_Phase1_action.html?reqType=1&objId=2d0143be-bc5a-446a-a125-a68af6bf927b&selReq=Month$FEB|Employee_Type$Officers|FY%20Year$F19&strAddObj=null&qlikTicket=4YrY_w2MubRmt0Eb\",\"rating\":2,\"sessionId\":\"3WXCN4TK0HCE87MU\"}"
+[2019-01-21T16:29:23.082] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-21T16:29:27.920] [INFO] default - "talega-cont#7ZMQERT9FQJBRBHU#-"
+[2019-01-21T16:29:31.162] [INFO] default - "Inside getAllowedSheets"
+[2019-01-21T16:29:35.407] [INFO] default - "talega-cont#7ZMQERT9FQJBRBHU#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-21T16:43:30.583] [INFO] default - "Generic Server Started"
+[2019-01-21T16:43:30.615] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-21T16:43:31.678] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-21T16:43:31.710] [INFO] default - "{\"length\":14,\"URL_QLIK_META_FETCH\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1\",\"QLIK_USER_DIRECTORY\":\"MAHINDRA\",\"URL_NETWORK_PROXY\":\"http://talele-cont:mahindra@333@10.2.152.4:80\",\"CONST_MASTER_USERID\":\"KAKKAJ-CONT\",\"QLIK_APPID\":\"d2d69372-0872-4319-ab68-e2784c2db879\",\"URL_QLIK_HOST\":\"qsdev.mahindra.com\",\"URL_ENGIMA_WSS_CONNECTION\":\"wss://qliksensedev.corp.mahindra.com:4747/app\",\"URL_MAIL_SERVER\":\"smtpin.falconide.com\",\"MAIL_AUTH_USERNAME\":\"mahindrasamvaad\",\"MAIL_AUTH_PASSWORD\":\"Mahindra@123\",\"MAIL_APP_SUPPORT_FROM\":\"samvaad@mahindrasamvaad.com\",\"MAIL_APP_SUPPORT_TO\":\"talele.gaurav@mahindra.com\",\"CRON_JOB_TIME\":\"00 07 08 * * *\",\"URL_META_FETCH_AND_UPDATE_CACHE\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0\"}"
+[2019-01-21T16:43:36.025] [INFO] default - "Generic Server Started"
+[2019-01-21T16:43:36.067] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-21T16:43:37.102] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-21T16:43:37.127] [INFO] default - "{\"length\":14,\"URL_QLIK_META_FETCH\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1\",\"QLIK_USER_DIRECTORY\":\"MAHINDRA\",\"URL_NETWORK_PROXY\":\"http://talele-cont:mahindra@333@10.2.152.4:80\",\"CONST_MASTER_USERID\":\"KAKKAJ-CONT\",\"QLIK_APPID\":\"d2d69372-0872-4319-ab68-e2784c2db879\",\"URL_QLIK_HOST\":\"qsdev.mahindra.com\",\"URL_ENGIMA_WSS_CONNECTION\":\"wss://qliksensedev.corp.mahindra.com:4747/app\",\"URL_MAIL_SERVER\":\"smtpin.falconide.com\",\"MAIL_AUTH_USERNAME\":\"mahindrasamvaad\",\"MAIL_AUTH_PASSWORD\":\"Mahindra@123\",\"MAIL_APP_SUPPORT_FROM\":\"samvaad@mahindrasamvaad.com\",\"MAIL_APP_SUPPORT_TO\":\"talele.gaurav@mahindra.com\",\"CRON_JOB_TIME\":\"00 07 08 * * *\",\"URL_META_FETCH_AND_UPDATE_CACHE\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0\"}"
+[2019-01-21T16:43:54.765] [ERROR] default - "Error While generating Ticket"
+[2019-01-21T16:44:31.128] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-21T16:44:36.047] [INFO] default - "talega-cont#G8VEPANL84ARO6SJ#-"
+[2019-01-21T16:44:38.770] [INFO] default - "Inside getAllowedSheets"
+[2019-01-21T16:44:45.704] [INFO] default - "talega-cont#G8VEPANL84ARO6SJ#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-21T16:45:47.379] [INFO] default - "Generic Server Started"
+[2019-01-21T16:45:47.384] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-21T16:45:48.435] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-21T16:45:48.478] [INFO] default - "{\"length\":14,\"URL_QLIK_META_FETCH\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1\",\"QLIK_USER_DIRECTORY\":\"MAHINDRA\",\"URL_NETWORK_PROXY\":\"http://talele-cont:mahindra@333@10.2.152.4:80\",\"CONST_MASTER_USERID\":\"KAKKAJ-CONT\",\"QLIK_APPID\":\"d2d69372-0872-4319-ab68-e2784c2db879\",\"URL_QLIK_HOST\":\"qsdev.mahindra.com\",\"URL_ENGIMA_WSS_CONNECTION\":\"wss://qliksensedev.corp.mahindra.com:4747/app\",\"URL_MAIL_SERVER\":\"smtpin.falconide.com\",\"MAIL_AUTH_USERNAME\":\"mahindrasamvaad\",\"MAIL_AUTH_PASSWORD\":\"Mahindra@123\",\"MAIL_APP_SUPPORT_FROM\":\"samvaad@mahindrasamvaad.com\",\"MAIL_APP_SUPPORT_TO\":\"talele.gaurav@mahindra.com\",\"CRON_JOB_TIME\":\"00 07 08 * * *\",\"URL_META_FETCH_AND_UPDATE_CACHE\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0\"}"
+[2019-01-21T16:46:01.669] [INFO] default - "Generic Server Started"
+[2019-01-21T16:46:01.676] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-21T16:46:02.711] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-21T16:46:02.739] [INFO] default - "{\"length\":14,\"URL_QLIK_META_FETCH\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1\",\"QLIK_USER_DIRECTORY\":\"MAHINDRA\",\"URL_NETWORK_PROXY\":\"http://talele-cont:mahindra@333@10.2.152.4:80\",\"CONST_MASTER_USERID\":\"KAKKAJ-CONT\",\"QLIK_APPID\":\"d2d69372-0872-4319-ab68-e2784c2db879\",\"URL_QLIK_HOST\":\"qsdev.mahindra.com\",\"URL_ENGIMA_WSS_CONNECTION\":\"wss://qliksensedev.corp.mahindra.com:4747/app\",\"URL_MAIL_SERVER\":\"smtpin.falconide.com\",\"MAIL_AUTH_USERNAME\":\"mahindrasamvaad\",\"MAIL_AUTH_PASSWORD\":\"Mahindra@123\",\"MAIL_APP_SUPPORT_FROM\":\"samvaad@mahindrasamvaad.com\",\"MAIL_APP_SUPPORT_TO\":\"talele.gaurav@mahindra.com\",\"CRON_JOB_TIME\":\"00 07 08 * * *\",\"URL_META_FETCH_AND_UPDATE_CACHE\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0\"}"
+[2019-01-21T16:46:23.816] [INFO] default - "Generic Server Started"
+[2019-01-21T16:46:23.851] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-21T16:46:24.888] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-21T16:46:24.911] [INFO] default - "{\"length\":14,\"URL_QLIK_META_FETCH\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1\",\"QLIK_USER_DIRECTORY\":\"MAHINDRA\",\"URL_NETWORK_PROXY\":\"http://talele-cont:mahindra@333@10.2.152.4:80\",\"CONST_MASTER_USERID\":\"KAKKAJ-CONT\",\"QLIK_APPID\":\"d2d69372-0872-4319-ab68-e2784c2db879\",\"URL_QLIK_HOST\":\"qsdev.mahindra.com\",\"URL_ENGIMA_WSS_CONNECTION\":\"wss://qliksensedev.corp.mahindra.com:4747/app\",\"URL_MAIL_SERVER\":\"smtpin.falconide.com\",\"MAIL_AUTH_USERNAME\":\"mahindrasamvaad\",\"MAIL_AUTH_PASSWORD\":\"Mahindra@123\",\"MAIL_APP_SUPPORT_FROM\":\"samvaad@mahindrasamvaad.com\",\"MAIL_APP_SUPPORT_TO\":\"talele.gaurav@mahindra.com\",\"CRON_JOB_TIME\":\"00 07 08 * * *\",\"URL_META_FETCH_AND_UPDATE_CACHE\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0\"}"
+[2019-01-21T16:46:48.389] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-21T16:46:57.542] [INFO] default - "Inside getAllowedSheets"
+[2019-01-21T16:47:50.739] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-21T16:47:50.755] [ERROR] default - "Error While generating Ticket"
+[2019-01-21T16:47:59.405] [INFO] default - "Generic Server Started"
+[2019-01-21T16:47:59.411] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-21T16:48:00.448] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-21T16:48:00.480] [INFO] default - "{\"length\":14,\"URL_QLIK_META_FETCH\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1\",\"QLIK_USER_DIRECTORY\":\"MAHINDRA\",\"URL_NETWORK_PROXY\":\"http://talele-cont:mahindra@333@10.2.152.4:80\",\"CONST_MASTER_USERID\":\"KAKKAJ-CONT\",\"QLIK_APPID\":\"d2d69372-0872-4319-ab68-e2784c2db879\",\"URL_QLIK_HOST\":\"qsdev.mahindra.com\",\"URL_ENGIMA_WSS_CONNECTION\":\"wss://qliksensedev.corp.mahindra.com:4747/app\",\"URL_MAIL_SERVER\":\"smtpin.falconide.com\",\"MAIL_AUTH_USERNAME\":\"mahindrasamvaad\",\"MAIL_AUTH_PASSWORD\":\"Mahindra@123\",\"MAIL_APP_SUPPORT_FROM\":\"samvaad@mahindrasamvaad.com\",\"MAIL_APP_SUPPORT_TO\":\"talele.gaurav@mahindra.com\",\"CRON_JOB_TIME\":\"00 07 08 * * *\",\"URL_META_FETCH_AND_UPDATE_CACHE\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0\"}"
+[2019-01-21T16:48:37.530] [INFO] default - "Generic Server Started"
+[2019-01-21T16:48:37.567] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-21T16:48:38.590] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-21T16:48:38.609] [INFO] default - "{\"length\":14,\"URL_QLIK_META_FETCH\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1\",\"QLIK_USER_DIRECTORY\":\"MAHINDRA\",\"URL_NETWORK_PROXY\":\"http://talele-cont:mahindra@333@10.2.152.4:80\",\"CONST_MASTER_USERID\":\"KAKKAJ-CONT\",\"QLIK_APPID\":\"d2d69372-0872-4319-ab68-e2784c2db879\",\"URL_QLIK_HOST\":\"qsdev.mahindra.com\",\"URL_ENGIMA_WSS_CONNECTION\":\"wss://qliksensedev.corp.mahindra.com:4747/app\",\"URL_MAIL_SERVER\":\"smtpin.falconide.com\",\"MAIL_AUTH_USERNAME\":\"mahindrasamvaad\",\"MAIL_AUTH_PASSWORD\":\"Mahindra@123\",\"MAIL_APP_SUPPORT_FROM\":\"samvaad@mahindrasamvaad.com\",\"MAIL_APP_SUPPORT_TO\":\"talele.gaurav@mahindra.com\",\"CRON_JOB_TIME\":\"00 07 08 * * *\",\"URL_META_FETCH_AND_UPDATE_CACHE\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0\"}"
+[2019-01-21T16:48:58.608] [INFO] default - "Generic Server Started"
+[2019-01-21T16:48:58.614] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-21T16:48:59.663] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-21T16:48:59.686] [INFO] default - "{\"length\":14,\"URL_QLIK_META_FETCH\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1\",\"QLIK_USER_DIRECTORY\":\"MAHINDRA\",\"URL_NETWORK_PROXY\":\"http://talele-cont:mahindra@333@10.2.152.4:80\",\"CONST_MASTER_USERID\":\"KAKKAJ-CONT\",\"QLIK_APPID\":\"d2d69372-0872-4319-ab68-e2784c2db879\",\"URL_QLIK_HOST\":\"qsdev.mahindra.com\",\"URL_ENGIMA_WSS_CONNECTION\":\"wss://qliksensedev.corp.mahindra.com:4747/app\",\"URL_MAIL_SERVER\":\"smtpin.falconide.com\",\"MAIL_AUTH_USERNAME\":\"mahindrasamvaad\",\"MAIL_AUTH_PASSWORD\":\"Mahindra@123\",\"MAIL_APP_SUPPORT_FROM\":\"samvaad@mahindrasamvaad.com\",\"MAIL_APP_SUPPORT_TO\":\"talele.gaurav@mahindra.com\",\"CRON_JOB_TIME\":\"00 07 08 * * *\",\"URL_META_FETCH_AND_UPDATE_CACHE\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0\"}"
+[2019-01-21T16:49:24.951] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-21T16:49:32.356] [INFO] default - "talega-cont#EG8OTKL4Z5L1I959#-"
+[2019-01-21T16:49:32.941] [INFO] default - "Inside getAllowedSheets"
+[2019-01-21T16:50:11.850] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-21T16:50:15.332] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-21T16:50:21.318] [INFO] default - "talega-cont#RAT7ZO7N56RBE36D#-"
+[2019-01-21T16:50:22.848] [INFO] default - "Inside getAllowedSheets"
+[2019-01-21T16:50:38.772] [INFO] default - "talega-cont#RAT7ZO7N56RBE36D#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-21T16:51:02.685] [INFO] default - "Generic Server Started"
+[2019-01-21T16:51:02.690] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-21T16:51:03.727] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-21T16:51:03.754] [INFO] default - "{\"length\":14,\"URL_QLIK_META_FETCH\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1\",\"QLIK_USER_DIRECTORY\":\"MAHINDRA\",\"URL_NETWORK_PROXY\":\"http://talele-cont:mahindra@333@10.2.152.4:80\",\"CONST_MASTER_USERID\":\"KAKKAJ-CONT\",\"QLIK_APPID\":\"d2d69372-0872-4319-ab68-e2784c2db879\",\"URL_QLIK_HOST\":\"qsdev.mahindra.com\",\"URL_ENGIMA_WSS_CONNECTION\":\"wss://qliksensedev.corp.mahindra.com:4747/app\",\"URL_MAIL_SERVER\":\"smtpin.falconide.com\",\"MAIL_AUTH_USERNAME\":\"mahindrasamvaad\",\"MAIL_AUTH_PASSWORD\":\"Mahindra@123\",\"MAIL_APP_SUPPORT_FROM\":\"samvaad@mahindrasamvaad.com\",\"MAIL_APP_SUPPORT_TO\":\"talele.gaurav@mahindra.com\",\"CRON_JOB_TIME\":\"00 07 08 * * *\",\"URL_META_FETCH_AND_UPDATE_CACHE\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0\"}"
+[2019-01-21T16:53:00.448] [INFO] default - "Generic Server Started"
+[2019-01-21T16:53:00.496] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-21T16:53:01.551] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-21T16:53:01.583] [INFO] default - "{\"length\":14,\"URL_QLIK_META_FETCH\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1\",\"QLIK_USER_DIRECTORY\":\"MAHINDRA\",\"URL_NETWORK_PROXY\":\"http://talele-cont:mahindra@333@10.2.152.4:80\",\"CONST_MASTER_USERID\":\"KAKKAJ-CONT\",\"QLIK_APPID\":\"d2d69372-0872-4319-ab68-e2784c2db879\",\"URL_QLIK_HOST\":\"qsdev.mahindra.com\",\"URL_ENGIMA_WSS_CONNECTION\":\"wss://qliksensedev.corp.mahindra.com:4747/app\",\"URL_MAIL_SERVER\":\"smtpin.falconide.com\",\"MAIL_AUTH_USERNAME\":\"mahindrasamvaad\",\"MAIL_AUTH_PASSWORD\":\"Mahindra@123\",\"MAIL_APP_SUPPORT_FROM\":\"samvaad@mahindrasamvaad.com\",\"MAIL_APP_SUPPORT_TO\":\"talele.gaurav@mahindra.com\",\"CRON_JOB_TIME\":\"00 07 08 * * *\",\"URL_META_FETCH_AND_UPDATE_CACHE\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0\"}"
+[2019-01-21T16:53:04.254] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-21T17:02:14.075] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-21T17:02:14.132] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-21T17:02:14.153] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-21T17:02:14.211] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-21T17:03:01.871] [INFO] default - "Generic Server Started"
+[2019-01-21T17:03:01.898] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-21T17:03:03.097] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-21T17:03:03.179] [INFO] default - "{\"length\":14,\"URL_QLIK_META_FETCH\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1\",\"QLIK_USER_DIRECTORY\":\"MAHINDRA\",\"URL_NETWORK_PROXY\":\"http://talele-cont:mahindra@333@10.2.152.4:80\",\"CONST_MASTER_USERID\":\"KAKKAJ-CONT\",\"QLIK_APPID\":\"d2d69372-0872-4319-ab68-e2784c2db879\",\"URL_QLIK_HOST\":\"qsdev.mahindra.com\",\"URL_ENGIMA_WSS_CONNECTION\":\"wss://qliksensedev.corp.mahindra.com:4747/app\",\"URL_MAIL_SERVER\":\"smtpin.falconide.com\",\"MAIL_AUTH_USERNAME\":\"mahindrasamvaad\",\"MAIL_AUTH_PASSWORD\":\"Mahindra@123\",\"MAIL_APP_SUPPORT_FROM\":\"samvaad@mahindrasamvaad.com\",\"MAIL_APP_SUPPORT_TO\":\"talele.gaurav@mahindra.com\",\"CRON_JOB_TIME\":\"00 07 08 * * *\",\"URL_META_FETCH_AND_UPDATE_CACHE\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0\"}"
+[2019-01-21T17:03:04.966] [INFO] default - "talega-cont#09O1V4ALKIQLO8ZR#-"
+[2019-01-21T17:05:38.443] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-21T17:05:48.645] [INFO] default - "Inside getAllowedSheets"
+[2019-01-21T17:13:13.317] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-21T17:13:16.394] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-21T17:13:21.397] [INFO] default - "Inside getAllowedSheets"
+[2019-01-21T17:13:59.098] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-21T17:14:04.996] [INFO] default - "talega-cont#6I0O8QBFFOOLC0U4#-"
+[2019-01-21T17:14:06.627] [INFO] default - "Inside getAllowedSheets"
+[2019-01-21T17:14:17.993] [INFO] default - "talega-cont#6I0O8QBFFOOLC0U4#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-21T17:16:40.060] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-21T17:16:43.364] [INFO] default - "talega-cont#TA65651X34MMB911#-"
+[2019-01-21T17:16:47.943] [INFO] default - "Inside getAllowedSheets"
+[2019-01-21T17:16:57.678] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-21T17:17:02.154] [INFO] default - "talega-cont#SO8EN6PURPSJ3DLT#-"
+[2019-01-21T17:17:05.487] [INFO] default - "Inside getAllowedSheets"
+[2019-01-21T17:17:19.115] [INFO] default - "talega-cont#SO8EN6PURPSJ3DLT#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-21T17:30:48.926] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-21T17:30:52.755] [INFO] default - "talega-cont#4P5YRXLUKQ7MO620#-"
+[2019-01-21T17:30:56.470] [INFO] default - "Inside getAllowedSheets"
+[2019-01-21T17:35:10.653] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-21T17:35:18.208] [INFO] default - "Inside getAllowedSheets"
+[2019-01-21T17:35:26.904] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-21T17:35:31.149] [INFO] default - "talega-cont#OPDNWJ44L9KAEOKY#-"
+[2019-01-21T17:35:34.424] [INFO] default - "Inside getAllowedSheets"
+[2019-01-21T17:35:40.483] [INFO] default - "talega-cont#OPDNWJ44L9KAEOKY#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-22T10:02:22.882] [INFO] default - "Generic Server Started"
+[2019-01-22T10:02:22.888] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-22T10:02:23.907] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-22T10:02:23.924] [INFO] default - "{\"length\":14,\"URL_QLIK_META_FETCH\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1\",\"QLIK_USER_DIRECTORY\":\"MAHINDRA\",\"URL_NETWORK_PROXY\":\"http://talele-cont:mahindra@333@10.2.152.4:80\",\"CONST_MASTER_USERID\":\"KAKKAJ-CONT\",\"QLIK_APPID\":\"d2d69372-0872-4319-ab68-e2784c2db879\",\"URL_QLIK_HOST\":\"qsdev.mahindra.com\",\"URL_ENGIMA_WSS_CONNECTION\":\"wss://qliksensedev.corp.mahindra.com:4747/app\",\"URL_MAIL_SERVER\":\"smtpin.falconide.com\",\"MAIL_AUTH_USERNAME\":\"mahindrasamvaad\",\"MAIL_AUTH_PASSWORD\":\"Mahindra@123\",\"MAIL_APP_SUPPORT_FROM\":\"samvaad@mahindrasamvaad.com\",\"MAIL_APP_SUPPORT_TO\":\"talele.gaurav@mahindra.com\",\"CRON_JOB_TIME\":\"00 07 08 * * *\",\"URL_META_FETCH_AND_UPDATE_CACHE\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0\"}"
+[2019-01-22T10:03:50.887] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T10:03:58.392] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T10:04:05.943] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T10:04:09.555] [INFO] default - "talega-cont#2DP75OWJXDFLG1JV#-"
+[2019-01-22T10:04:13.341] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T10:04:51.892] [INFO] default - "talega-cont#2DP75OWJXDFLG1JV#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-22T10:09:27.900] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T10:09:31.983] [INFO] default - "talega-cont#HTQGUM4VY8DV5F4E#-"
+[2019-01-22T10:09:35.575] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T10:09:37.380] [INFO] default - "talega-cont#HTQGUM4VY8DV5F4E#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-22T10:14:09.715] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T10:14:13.048] [INFO] default - "talega-cont#C9LPAMB2KGRYNB64#-"
+[2019-01-22T10:14:17.115] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T10:14:19.978] [INFO] default - "talega-cont#C9LPAMB2KGRYNB64#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-22T10:18:49.330] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T10:18:53.099] [INFO] default - "talega-cont#QJ85NHUL58DFSFFO#-"
+[2019-01-22T10:18:56.743] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T10:19:00.053] [INFO] default - "talega-cont#QJ85NHUL58DFSFFO#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-22T10:19:19.441] [INFO] default - "talega-cont#QJ85NHUL58DFSFFO#Month:DEC|FY Year:F19|Employee Category:Permanent|Employee_Type:Officers"
+[2019-01-22T10:20:12.163] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T10:20:15.577] [INFO] default - "talega-cont#RT61NMYQW4AMG5QK#-"
+[2019-01-22T10:20:19.605] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T10:20:23.842] [INFO] default - "talega-cont#RT61NMYQW4AMG5QK#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-22T10:26:10.181] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T10:26:13.714] [INFO] default - "talega-cont#SNLO2ZF4ZTLK2P4L#-"
+[2019-01-22T10:26:17.558] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T10:26:21.496] [INFO] default - "talega-cont#SNLO2ZF4ZTLK2P4L#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-22T10:29:49.581] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T10:29:54.961] [INFO] default - "talega-cont#9DM36X1YUCUWW0WD#-"
+[2019-01-22T10:29:57.463] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T10:30:01.088] [INFO] default - "talega-cont#9DM36X1YUCUWW0WD#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-22T10:33:10.770] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T10:33:14.125] [INFO] default - "talega-cont#5BRVO42WUGKB0TP3#-"
+[2019-01-22T10:33:18.171] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T10:33:21.586] [INFO] default - "talega-cont#5BRVO42WUGKB0TP3#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-22T10:34:52.207] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T10:34:55.758] [INFO] default - "talega-cont#Q0U06KKASK56LZDF#-"
+[2019-01-22T10:34:59.771] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T10:35:02.955] [INFO] default - "talega-cont#Q0U06KKASK56LZDF#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-22T10:39:21.524] [INFO] default - "Generic Server Started"
+[2019-01-22T10:39:21.534] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-22T10:39:22.550] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-22T10:39:22.564] [INFO] default - "{\"length\":14,\"URL_QLIK_META_FETCH\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1\",\"QLIK_USER_DIRECTORY\":\"MAHINDRA\",\"URL_NETWORK_PROXY\":\"http://talele-cont:mahindra@333@10.2.152.4:80\",\"CONST_MASTER_USERID\":\"KAKKAJ-CONT\",\"QLIK_APPID\":\"d2d69372-0872-4319-ab68-e2784c2db879\",\"URL_QLIK_HOST\":\"qsdev.mahindra.com\",\"URL_ENGIMA_WSS_CONNECTION\":\"wss://qliksensedev.corp.mahindra.com:4747/app\",\"URL_MAIL_SERVER\":\"smtpin.falconide.com\",\"MAIL_AUTH_USERNAME\":\"mahindrasamvaad\",\"MAIL_AUTH_PASSWORD\":\"Mahindra@123\",\"MAIL_APP_SUPPORT_FROM\":\"samvaad@mahindrasamvaad.com\",\"MAIL_APP_SUPPORT_TO\":\"talele.gaurav@mahindra.com\",\"CRON_JOB_TIME\":\"00 07 08 * * *\",\"URL_META_FETCH_AND_UPDATE_CACHE\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0\"}"
+[2019-01-22T10:39:25.234] [INFO] default - "Generic Server Started"
+[2019-01-22T10:39:25.239] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-22T10:39:26.259] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-22T10:39:26.282] [INFO] default - "{\"length\":14,\"URL_QLIK_META_FETCH\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1\",\"QLIK_USER_DIRECTORY\":\"MAHINDRA\",\"URL_NETWORK_PROXY\":\"http://talele-cont:mahindra@333@10.2.152.4:80\",\"CONST_MASTER_USERID\":\"KAKKAJ-CONT\",\"QLIK_APPID\":\"d2d69372-0872-4319-ab68-e2784c2db879\",\"URL_QLIK_HOST\":\"qsdev.mahindra.com\",\"URL_ENGIMA_WSS_CONNECTION\":\"wss://qliksensedev.corp.mahindra.com:4747/app\",\"URL_MAIL_SERVER\":\"smtpin.falconide.com\",\"MAIL_AUTH_USERNAME\":\"mahindrasamvaad\",\"MAIL_AUTH_PASSWORD\":\"Mahindra@123\",\"MAIL_APP_SUPPORT_FROM\":\"samvaad@mahindrasamvaad.com\",\"MAIL_APP_SUPPORT_TO\":\"talele.gaurav@mahindra.com\",\"CRON_JOB_TIME\":\"00 07 08 * * *\",\"URL_META_FETCH_AND_UPDATE_CACHE\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0\"}"
+[2019-01-22T10:39:38.133] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T10:39:41.865] [INFO] default - "talega-cont#LF4SPSB62CGHQKO6#-"
+[2019-01-22T10:39:45.606] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T10:39:48.924] [INFO] default - "talega-cont#LF4SPSB62CGHQKO6#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-22T10:40:57.114] [INFO] default - "Generic Server Started"
+[2019-01-22T10:40:57.118] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-22T10:40:58.142] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-22T10:40:58.163] [INFO] default - "{\"length\":14,\"URL_QLIK_META_FETCH\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1\",\"QLIK_USER_DIRECTORY\":\"MAHINDRA\",\"URL_NETWORK_PROXY\":\"http://talele-cont:mahindra@333@10.2.152.4:80\",\"CONST_MASTER_USERID\":\"KAKKAJ-CONT\",\"QLIK_APPID\":\"d2d69372-0872-4319-ab68-e2784c2db879\",\"URL_QLIK_HOST\":\"qsdev.mahindra.com\",\"URL_ENGIMA_WSS_CONNECTION\":\"wss://qliksensedev.corp.mahindra.com:4747/app\",\"URL_MAIL_SERVER\":\"smtpin.falconide.com\",\"MAIL_AUTH_USERNAME\":\"mahindrasamvaad\",\"MAIL_AUTH_PASSWORD\":\"Mahindra@123\",\"MAIL_APP_SUPPORT_FROM\":\"samvaad@mahindrasamvaad.com\",\"MAIL_APP_SUPPORT_TO\":\"talele.gaurav@mahindra.com\",\"CRON_JOB_TIME\":\"00 07 08 * * *\",\"URL_META_FETCH_AND_UPDATE_CACHE\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0\"}"
+[2019-01-22T10:42:19.477] [INFO] default - "Generic Server Started"
+[2019-01-22T10:42:19.482] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-22T10:42:20.500] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-22T10:42:20.514] [INFO] default - "{\"length\":14,\"URL_QLIK_META_FETCH\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1\",\"QLIK_USER_DIRECTORY\":\"MAHINDRA\",\"URL_NETWORK_PROXY\":\"http://talele-cont:mahindra@333@10.2.152.4:80\",\"CONST_MASTER_USERID\":\"KAKKAJ-CONT\",\"QLIK_APPID\":\"d2d69372-0872-4319-ab68-e2784c2db879\",\"URL_QLIK_HOST\":\"qsdev.mahindra.com\",\"URL_ENGIMA_WSS_CONNECTION\":\"wss://qliksensedev.corp.mahindra.com:4747/app\",\"URL_MAIL_SERVER\":\"smtpin.falconide.com\",\"MAIL_AUTH_USERNAME\":\"mahindrasamvaad\",\"MAIL_AUTH_PASSWORD\":\"Mahindra@123\",\"MAIL_APP_SUPPORT_FROM\":\"samvaad@mahindrasamvaad.com\",\"MAIL_APP_SUPPORT_TO\":\"talele.gaurav@mahindra.com\",\"CRON_JOB_TIME\":\"00 07 08 * * *\",\"URL_META_FETCH_AND_UPDATE_CACHE\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0\"}"
+[2019-01-22T10:42:42.790] [INFO] default - "Generic Server Started"
+[2019-01-22T10:42:42.798] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-22T10:42:43.845] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-22T10:42:43.862] [INFO] default - "{\"length\":14,\"URL_QLIK_META_FETCH\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1\",\"QLIK_USER_DIRECTORY\":\"MAHINDRA\",\"URL_NETWORK_PROXY\":\"http://talele-cont:mahindra@333@10.2.152.4:80\",\"CONST_MASTER_USERID\":\"KAKKAJ-CONT\",\"QLIK_APPID\":\"d2d69372-0872-4319-ab68-e2784c2db879\",\"URL_QLIK_HOST\":\"qsdev.mahindra.com\",\"URL_ENGIMA_WSS_CONNECTION\":\"wss://qliksensedev.corp.mahindra.com:4747/app\",\"URL_MAIL_SERVER\":\"smtpin.falconide.com\",\"MAIL_AUTH_USERNAME\":\"mahindrasamvaad\",\"MAIL_AUTH_PASSWORD\":\"Mahindra@123\",\"MAIL_APP_SUPPORT_FROM\":\"samvaad@mahindrasamvaad.com\",\"MAIL_APP_SUPPORT_TO\":\"talele.gaurav@mahindra.com\",\"CRON_JOB_TIME\":\"00 07 08 * * *\",\"URL_META_FETCH_AND_UPDATE_CACHE\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0\"}"
+[2019-01-22T10:43:07.435] [INFO] default - "Generic Server Started"
+[2019-01-22T10:43:07.439] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-22T10:43:08.477] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-22T10:43:08.499] [INFO] default - "{\"length\":14,\"URL_QLIK_META_FETCH\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1\",\"QLIK_USER_DIRECTORY\":\"MAHINDRA\",\"URL_NETWORK_PROXY\":\"http://talele-cont:mahindra@333@10.2.152.4:80\",\"CONST_MASTER_USERID\":\"KAKKAJ-CONT\",\"QLIK_APPID\":\"d2d69372-0872-4319-ab68-e2784c2db879\",\"URL_QLIK_HOST\":\"qsdev.mahindra.com\",\"URL_ENGIMA_WSS_CONNECTION\":\"wss://qliksensedev.corp.mahindra.com:4747/app\",\"URL_MAIL_SERVER\":\"smtpin.falconide.com\",\"MAIL_AUTH_USERNAME\":\"mahindrasamvaad\",\"MAIL_AUTH_PASSWORD\":\"Mahindra@123\",\"MAIL_APP_SUPPORT_FROM\":\"samvaad@mahindrasamvaad.com\",\"MAIL_APP_SUPPORT_TO\":\"talele.gaurav@mahindra.com\",\"CRON_JOB_TIME\":\"00 07 08 * * *\",\"URL_META_FETCH_AND_UPDATE_CACHE\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0\"}"
+[2019-01-22T10:44:58.131] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T10:45:02.009] [INFO] default - "talega-cont#GGRD63DTVYD2S9BA#-"
+[2019-01-22T10:45:06.017] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T10:45:08.741] [INFO] default - "talega-cont#GGRD63DTVYD2S9BA#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-22T10:47:00.143] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T10:47:03.833] [INFO] default - "talega-cont#FZ7JV1QPV506FXC4#-"
+[2019-01-22T10:47:07.667] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T10:47:19.857] [INFO] default - "talega-cont#FZ7JV1QPV506FXC4#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-22T10:48:04.032] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T10:48:07.667] [INFO] default - "talega-cont#RDMA9JZPHT65KS3G#-"
+[2019-01-22T10:48:11.473] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T10:48:15.196] [INFO] default - "talega-cont#RDMA9JZPHT65KS3G#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-22T10:48:58.371] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T10:49:02.069] [INFO] default - "talega-cont#4H7KOC0JFO9Y3FQZ#-"
+[2019-01-22T10:49:05.954] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T10:49:09.595] [INFO] default - "talega-cont#4H7KOC0JFO9Y3FQZ#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-22T10:56:40.330] [INFO] default - "Generic Server Started"
+[2019-01-22T10:56:40.338] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-22T10:56:41.352] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-22T10:56:41.366] [INFO] default - "{\"length\":14,\"URL_QLIK_META_FETCH\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1\",\"QLIK_USER_DIRECTORY\":\"MAHINDRA\",\"URL_NETWORK_PROXY\":\"http://talele-cont:mahindra@333@10.2.152.4:80\",\"CONST_MASTER_USERID\":\"KAKKAJ-CONT\",\"QLIK_APPID\":\"d2d69372-0872-4319-ab68-e2784c2db879\",\"URL_QLIK_HOST\":\"qsdev.mahindra.com\",\"URL_ENGIMA_WSS_CONNECTION\":\"wss://qliksensedev.corp.mahindra.com:4747/app\",\"URL_MAIL_SERVER\":\"smtpin.falconide.com\",\"MAIL_AUTH_USERNAME\":\"mahindrasamvaad\",\"MAIL_AUTH_PASSWORD\":\"Mahindra@123\",\"MAIL_APP_SUPPORT_FROM\":\"samvaad@mahindrasamvaad.com\",\"MAIL_APP_SUPPORT_TO\":\"talele.gaurav@mahindra.com\",\"CRON_JOB_TIME\":\"00 07 08 * * *\",\"URL_META_FETCH_AND_UPDATE_CACHE\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0\"}"
+[2019-01-22T10:56:47.199] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T10:56:51.144] [INFO] default - "talega-cont#1HVC10ET4XHGIPMS#-"
+[2019-01-22T10:56:54.638] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T10:56:58.842] [INFO] default - "talega-cont#1HVC10ET4XHGIPMS#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-22T11:23:21.682] [INFO] default - "Redis Key Exists"
+[2019-01-22T11:23:21.700] [INFO] default - "Successfully Sent Cached MetaData from Redis CACHE"
+[2019-01-22T11:23:26.758] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T11:23:31.308] [INFO] default - "talega-cont#DV9NFCVIO8CBRLUY#-"
+[2019-01-22T11:23:34.383] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T11:23:39.084] [INFO] default - "talega-cont#DV9NFCVIO8CBRLUY#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-22T11:26:17.753] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T11:26:21.995] [INFO] default - "talega-cont#VOC5UKTBCZFSIWRW#-"
+[2019-01-22T11:26:25.298] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T11:26:32.715] [INFO] default - "talega-cont#VOC5UKTBCZFSIWRW#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-22T11:27:57.637] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T11:28:05.228] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T11:28:19.132] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T11:28:23.835] [INFO] default - "talega-cont#HZ4JG563SUSMROTC#-"
+[2019-01-22T11:28:27.408] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T11:28:30.814] [INFO] default - "talega-cont#HZ4JG563SUSMROTC#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-22T11:37:52.469] [INFO] default - "talega-cont#HZ4JG563SUSMROTC#-"
+[2019-01-22T11:38:35.350] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T11:38:39.375] [INFO] default - "talega-cont#AMBPMMZUTRVL6UNG#-"
+[2019-01-22T11:38:42.799] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T11:49:25.624] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T11:49:29.369] [INFO] default - "talega-cont#Q8ODYT88PE8Y2DQU#-"
+[2019-01-22T11:49:33.099] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T12:46:06.994] [INFO] default - "Redis Key Exists"
+[2019-01-22T12:46:07.016] [INFO] default - "Successfully Sent Cached MetaData from Redis CACHE"
+[2019-01-22T12:48:12.906] [INFO] default - "Redis Key Exists"
+[2019-01-22T12:48:12.920] [INFO] default - "Successfully Sent Cached MetaData from Redis CACHE"
+[2019-01-22T12:51:31.905] [INFO] default - "Generic Server Started"
+[2019-01-22T12:51:31.943] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-22T12:51:32.980] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-22T12:51:32.996] [INFO] default - "{\"length\":14,\"URL_QLIK_META_FETCH\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1\",\"QLIK_USER_DIRECTORY\":\"MAHINDRA\",\"URL_NETWORK_PROXY\":\"http://talele-cont:mahindra@333@10.2.152.4:80\",\"CONST_MASTER_USERID\":\"KAKKAJ-CONT\",\"QLIK_APPID\":\"d2d69372-0872-4319-ab68-e2784c2db879\",\"URL_QLIK_HOST\":\"qsdev.mahindra.com\",\"URL_ENGIMA_WSS_CONNECTION\":\"wss://qliksensedev.corp.mahindra.com:4747/app\",\"URL_MAIL_SERVER\":\"smtpin.falconide.com\",\"MAIL_AUTH_USERNAME\":\"mahindrasamvaad\",\"MAIL_AUTH_PASSWORD\":\"Mahindra@123\",\"MAIL_APP_SUPPORT_FROM\":\"samvaad@mahindrasamvaad.com\",\"MAIL_APP_SUPPORT_TO\":\"talele.gaurav@mahindra.com\",\"CRON_JOB_TIME\":\"00 07 08 * * *\",\"URL_META_FETCH_AND_UPDATE_CACHE\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0\"}"
+[2019-01-22T12:51:41.296] [INFO] default - "Generic Server Started"
+[2019-01-22T12:51:41.330] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-22T12:51:42.377] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-22T12:51:42.402] [INFO] default - "{\"length\":14,\"URL_QLIK_META_FETCH\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1\",\"QLIK_USER_DIRECTORY\":\"MAHINDRA\",\"URL_NETWORK_PROXY\":\"http://talele-cont:mahindra@333@10.2.152.4:80\",\"CONST_MASTER_USERID\":\"KAKKAJ-CONT\",\"QLIK_APPID\":\"d2d69372-0872-4319-ab68-e2784c2db879\",\"URL_QLIK_HOST\":\"qsdev.mahindra.com\",\"URL_ENGIMA_WSS_CONNECTION\":\"wss://qliksensedev.corp.mahindra.com:4747/app\",\"URL_MAIL_SERVER\":\"smtpin.falconide.com\",\"MAIL_AUTH_USERNAME\":\"mahindrasamvaad\",\"MAIL_AUTH_PASSWORD\":\"Mahindra@123\",\"MAIL_APP_SUPPORT_FROM\":\"samvaad@mahindrasamvaad.com\",\"MAIL_APP_SUPPORT_TO\":\"talele.gaurav@mahindra.com\",\"CRON_JOB_TIME\":\"00 07 08 * * *\",\"URL_META_FETCH_AND_UPDATE_CACHE\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0\"}"
+[2019-01-22T12:53:34.226] [ERROR] default - "Error While generating Ticket"
+[2019-01-22T12:55:54.369] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T12:56:01.881] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T12:56:11.469] [INFO] default - "talega-cont#LR1LM7YYFGB90FU1#-"
+[2019-01-22T13:01:59.044] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T13:02:03.729] [INFO] default - "talega-cont#2XV3VCF2KK87QL2Y#-"
+[2019-01-22T13:02:06.586] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T13:04:46.185] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T13:04:49.904] [INFO] default - "talega-cont#PUAMY5S2R84SKUS9#-"
+[2019-01-22T13:04:53.622] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T13:07:40.734] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T13:07:44.213] [INFO] default - "talega-cont#OCPECG806LEN9U2Y#-"
+[2019-01-22T13:07:48.136] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T13:10:12.598] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T13:10:16.317] [INFO] default - "talega-cont#WEDK6HFRY108WBP8#-"
+[2019-01-22T13:10:19.972] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T13:29:03.070] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T13:29:06.929] [INFO] default - "talega-cont#FIBEG2IV7JC114E7#-"
+[2019-01-22T13:29:10.518] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T14:25:28.694] [INFO] default - "Redis Key Exists"
+[2019-01-22T14:25:28.712] [INFO] default - "Successfully Sent Cached MetaData from Redis CACHE"
+[2019-01-22T14:29:33.598] [INFO] default - "Redis Key Exists"
+[2019-01-22T14:29:33.613] [INFO] default - "Successfully Sent Cached MetaData from Redis CACHE"
+[2019-01-22T14:35:23.489] [INFO] default - "Redis Key Exists"
+[2019-01-22T14:35:23.505] [INFO] default - "Successfully Sent Cached MetaData from Redis CACHE"
+[2019-01-22T14:38:27.956] [INFO] default - "Redis Key Exists"
+[2019-01-22T14:38:27.972] [INFO] default - "Successfully Sent Cached MetaData from Redis CACHE"
+[2019-01-22T14:40:23.149] [INFO] default - "Redis Key Exists"
+[2019-01-22T14:40:23.167] [INFO] default - "Successfully Sent Cached MetaData from Redis CACHE"
+[2019-01-22T14:44:31.973] [INFO] default - "Redis Key Exists"
+[2019-01-22T14:44:31.999] [INFO] default - "Successfully Sent Cached MetaData from Redis CACHE"
+[2019-01-22T14:49:58.977] [INFO] default - "Generic Server Started"
+[2019-01-22T14:49:59.009] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-22T14:50:00.025] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-22T14:50:00.038] [INFO] default - "{\"length\":14,\"URL_QLIK_META_FETCH\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1\",\"QLIK_USER_DIRECTORY\":\"MAHINDRA\",\"URL_NETWORK_PROXY\":\"http://talele-cont:mahindra@333@10.2.152.4:80\",\"CONST_MASTER_USERID\":\"KAKKAJ-CONT\",\"QLIK_APPID\":\"d2d69372-0872-4319-ab68-e2784c2db879\",\"URL_QLIK_HOST\":\"qsdev.mahindra.com\",\"URL_ENGIMA_WSS_CONNECTION\":\"wss://qliksensedev.corp.mahindra.com:4747/app\",\"URL_MAIL_SERVER\":\"smtpin.falconide.com\",\"MAIL_AUTH_USERNAME\":\"mahindrasamvaad\",\"MAIL_AUTH_PASSWORD\":\"Mahindra@123\",\"MAIL_APP_SUPPORT_FROM\":\"samvaad@mahindrasamvaad.com\",\"MAIL_APP_SUPPORT_TO\":\"talele.gaurav@mahindra.com\",\"CRON_JOB_TIME\":\"00 07 08 * * *\",\"URL_META_FETCH_AND_UPDATE_CACHE\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0\"}"
+[2019-01-22T14:53:14.930] [INFO] default - "Generic Server Started"
+[2019-01-22T14:53:14.935] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-22T14:53:15.951] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-22T14:53:15.963] [INFO] default - "{\"length\":14,\"URL_QLIK_META_FETCH\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1\",\"QLIK_USER_DIRECTORY\":\"MAHINDRA\",\"URL_NETWORK_PROXY\":\"http://talele-cont:mahindra@333@10.2.152.4:80\",\"CONST_MASTER_USERID\":\"KAKKAJ-CONT\",\"QLIK_APPID\":\"d2d69372-0872-4319-ab68-e2784c2db879\",\"URL_QLIK_HOST\":\"qsdev.mahindra.com\",\"URL_ENGIMA_WSS_CONNECTION\":\"wss://qliksensedev.corp.mahindra.com:4747/app\",\"URL_MAIL_SERVER\":\"smtpin.falconide.com\",\"MAIL_AUTH_USERNAME\":\"mahindrasamvaad\",\"MAIL_AUTH_PASSWORD\":\"Mahindra@123\",\"MAIL_APP_SUPPORT_FROM\":\"samvaad@mahindrasamvaad.com\",\"MAIL_APP_SUPPORT_TO\":\"talele.gaurav@mahindra.com\",\"CRON_JOB_TIME\":\"00 07 08 * * *\",\"URL_META_FETCH_AND_UPDATE_CACHE\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0\"}"
+[2019-01-22T14:56:24.281] [INFO] default - "Generic Server Started"
+[2019-01-22T14:56:24.290] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-22T14:56:25.339] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-22T14:56:25.364] [INFO] default - "{\"length\":14,\"URL_QLIK_META_FETCH\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1\",\"QLIK_USER_DIRECTORY\":\"MAHINDRA\",\"URL_NETWORK_PROXY\":\"http://talele-cont:mahindra@333@10.2.152.4:80\",\"CONST_MASTER_USERID\":\"KAKKAJ-CONT\",\"QLIK_APPID\":\"d2d69372-0872-4319-ab68-e2784c2db879\",\"URL_QLIK_HOST\":\"qsdev.mahindra.com\",\"URL_ENGIMA_WSS_CONNECTION\":\"wss://qliksensedev.corp.mahindra.com:4747/app\",\"URL_MAIL_SERVER\":\"smtpin.falconide.com\",\"MAIL_AUTH_USERNAME\":\"mahindrasamvaad\",\"MAIL_AUTH_PASSWORD\":\"Mahindra@123\",\"MAIL_APP_SUPPORT_FROM\":\"samvaad@mahindrasamvaad.com\",\"MAIL_APP_SUPPORT_TO\":\"talele.gaurav@mahindra.com\",\"CRON_JOB_TIME\":\"00 07 08 * * *\",\"URL_META_FETCH_AND_UPDATE_CACHE\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0\"}"
+[2019-01-22T14:56:50.054] [INFO] default - "Generic Server Started"
+[2019-01-22T14:56:50.062] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-22T14:56:51.113] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-22T14:56:51.134] [INFO] default - "{\"length\":14,\"URL_QLIK_META_FETCH\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1\",\"QLIK_USER_DIRECTORY\":\"MAHINDRA\",\"URL_NETWORK_PROXY\":\"http://talele-cont:mahindra@333@10.2.152.4:80\",\"CONST_MASTER_USERID\":\"KAKKAJ-CONT\",\"QLIK_APPID\":\"d2d69372-0872-4319-ab68-e2784c2db879\",\"URL_QLIK_HOST\":\"qsdev.mahindra.com\",\"URL_ENGIMA_WSS_CONNECTION\":\"wss://qliksensedev.corp.mahindra.com:4747/app\",\"URL_MAIL_SERVER\":\"smtpin.falconide.com\",\"MAIL_AUTH_USERNAME\":\"mahindrasamvaad\",\"MAIL_AUTH_PASSWORD\":\"Mahindra@123\",\"MAIL_APP_SUPPORT_FROM\":\"samvaad@mahindrasamvaad.com\",\"MAIL_APP_SUPPORT_TO\":\"talele.gaurav@mahindra.com\",\"CRON_JOB_TIME\":\"00 07 08 * * *\",\"URL_META_FETCH_AND_UPDATE_CACHE\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0\"}"
+[2019-01-22T14:57:31.212] [INFO] default - "Generic Server Started"
+[2019-01-22T14:57:31.247] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-22T14:57:32.288] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-22T14:57:32.309] [INFO] default - "{\"length\":14,\"URL_QLIK_META_FETCH\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1\",\"QLIK_USER_DIRECTORY\":\"MAHINDRA\",\"URL_NETWORK_PROXY\":\"http://talele-cont:mahindra@333@10.2.152.4:80\",\"CONST_MASTER_USERID\":\"KAKKAJ-CONT\",\"QLIK_APPID\":\"d2d69372-0872-4319-ab68-e2784c2db879\",\"URL_QLIK_HOST\":\"qsdev.mahindra.com\",\"URL_ENGIMA_WSS_CONNECTION\":\"wss://qliksensedev.corp.mahindra.com:4747/app\",\"URL_MAIL_SERVER\":\"smtpin.falconide.com\",\"MAIL_AUTH_USERNAME\":\"mahindrasamvaad\",\"MAIL_AUTH_PASSWORD\":\"Mahindra@123\",\"MAIL_APP_SUPPORT_FROM\":\"samvaad@mahindrasamvaad.com\",\"MAIL_APP_SUPPORT_TO\":\"talele.gaurav@mahindra.com\",\"CRON_JOB_TIME\":\"00 07 08 * * *\",\"URL_META_FETCH_AND_UPDATE_CACHE\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0\"}"
+[2019-01-22T14:57:38.036] [INFO] default - "Generic Server Started"
+[2019-01-22T14:57:38.086] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-22T14:57:39.102] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-22T14:57:39.118] [INFO] default - "{\"length\":14,\"URL_QLIK_META_FETCH\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1\",\"QLIK_USER_DIRECTORY\":\"MAHINDRA\",\"URL_NETWORK_PROXY\":\"http://talele-cont:mahindra@333@10.2.152.4:80\",\"CONST_MASTER_USERID\":\"KAKKAJ-CONT\",\"QLIK_APPID\":\"d2d69372-0872-4319-ab68-e2784c2db879\",\"URL_QLIK_HOST\":\"qsdev.mahindra.com\",\"URL_ENGIMA_WSS_CONNECTION\":\"wss://qliksensedev.corp.mahindra.com:4747/app\",\"URL_MAIL_SERVER\":\"smtpin.falconide.com\",\"MAIL_AUTH_USERNAME\":\"mahindrasamvaad\",\"MAIL_AUTH_PASSWORD\":\"Mahindra@123\",\"MAIL_APP_SUPPORT_FROM\":\"samvaad@mahindrasamvaad.com\",\"MAIL_APP_SUPPORT_TO\":\"talele.gaurav@mahindra.com\",\"CRON_JOB_TIME\":\"00 07 08 * * *\",\"URL_META_FETCH_AND_UPDATE_CACHE\":\"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0&dbChoice=0\"}"
+[2019-01-22T14:59:30.410] [INFO] default - "Generic Server Started"
+[2019-01-22T14:59:30.418] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-22T14:59:31.468] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-22T14:59:42.551] [INFO] default - "Generic Server Started"
+[2019-01-22T14:59:42.558] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-22T14:59:43.573] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-22T14:59:59.387] [INFO] default - "Redis Key Exists"
+[2019-01-22T14:59:59.405] [INFO] default - "Successfully Sent Cached MetaData from Redis CACHE"
+[2019-01-22T15:00:46.350] [INFO] default - "Redis Key Exists"
+[2019-01-22T15:00:46.370] [INFO] default - "Successfully Sent Cached MetaData from Redis CACHE"
+[2019-01-22T15:04:59.711] [INFO] default - "Redis Key Exists"
+[2019-01-22T15:04:59.728] [INFO] default - "Successfully Sent Cached MetaData from Redis CACHE"
+[2019-01-22T15:22:45.872] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T15:22:49.697] [INFO] default - "talega-cont#LSUI7EMD6XHD2LAQ#-"
+[2019-01-22T15:22:53.466] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T15:22:58.424] [INFO] default - "talega-cont#LSUI7EMD6XHD2LAQ#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-22T15:23:32.190] [INFO] default - "talega-cont#LSUI7EMD6XHD2LAQ#-"
+[2019-01-22T15:24:03.291] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T15:24:07.526] [INFO] default - "talega-cont#8A6BDH82QOCV8OTN#-"
+[2019-01-22T15:24:10.943] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T15:24:18.776] [INFO] default - "talega-cont#8A6BDH82QOCV8OTN#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-22T15:24:41.649] [INFO] default - "talega-cont#8A6BDH82QOCV8OTN#-"
+[2019-01-22T15:31:35.877] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T15:31:39.795] [INFO] default - "talega-cont#TE8OGYTG80KHH8MQ#-"
+[2019-01-22T15:31:43.302] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T15:31:49.156] [INFO] default - "talega-cont#TE8OGYTG80KHH8MQ#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-22T15:42:02.850] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T15:42:07.012] [INFO] default - "talega-cont#RNXY6KONKUQQC4V8#-"
+[2019-01-22T15:42:10.426] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T15:42:15.274] [INFO] default - "talega-cont#RNXY6KONKUQQC4V8#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-22T15:42:54.605] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T15:42:58.572] [INFO] default - "talega-cont#HGNIPQCFMYBS0FE1#-"
+[2019-01-22T15:43:01.981] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T15:53:44.246] [INFO] default - "talega-cont#HGNIPQCFMYBS0FE1#-"
+[2019-01-22T15:53:50.356] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T15:53:53.844] [INFO] default - "talega-cont#MNM2DDB8TN99UG7M#-"
+[2019-01-22T15:53:57.868] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T16:05:19.629] [INFO] default - "Generic Server Started"
+[2019-01-22T16:05:19.634] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-22T16:05:20.667] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-22T17:16:32.947] [INFO] default - "Redis Key Exists"
+[2019-01-22T17:16:32.998] [INFO] default - "talega-cont#MNM2DDB8TN99UG7M#-"
+[2019-01-22T17:16:33.038] [INFO] default - "Successfully Sent Cached MetaData from Redis CACHE"
+[2019-01-22T17:16:44.470] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-22T17:16:55.555] [INFO] default - "talega-cont#ENB8XBV1RCMSPU2W#-"
+[2019-01-22T17:16:58.583] [INFO] default - "Inside getAllowedSheets"
+[2019-01-22T17:25:06.018] [INFO] default - "talega-cont#ENB8XBV1RCMSPU2W#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-23T10:04:19.599] [INFO] default - "Generic Server Started"
+[2019-01-23T10:04:19.616] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-23T10:04:20.794] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-23T10:20:26.680] [INFO] default - "Redis Key Exists"
+[2019-01-23T10:20:26.695] [INFO] default - "Successfully Sent Cached MetaData from Redis CACHE"
+[2019-01-23T10:58:33.634] [INFO] default - "Generic Server Started"
+[2019-01-23T10:58:33.638] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-23T10:58:34.661] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-23T10:59:21.745] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-23T10:59:29.459] [INFO] default - "Inside getAllowedSheets"
+[2019-01-23T10:59:39.805] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-23T10:59:44.021] [INFO] default - CS"talega-cont#ODQ2G799WHT9D1KV#-"
+[2019-01-23T10:59:47.365] [INFO] default - "Inside getAllowedSheets"
+[2019-01-23T11:00:20.090] [INFO] default - CS"talega-cont#ODQ2G799WHT9D1KV#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-23T11:02:20.349] [INFO] default - "Generic Server Started"
+[2019-01-23T11:02:20.383] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-23T11:02:21.430] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-23T11:02:33.097] [INFO] default - CS"talega-cont#ODQ2G799WHT9D1KV#Month:DEC|FY Year:F19|Employee Category:Probationer|Employee_Type:Officers"
+[2019-01-23T11:03:06.276] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-23T11:03:10.293] [INFO] default - CS"talega-cont#B6SNTAQRDMFQJVCM#-"
+[2019-01-23T11:03:13.805] [INFO] default - "Inside getAllowedSheets"
+[2019-01-23T11:04:16.274] [INFO] default - CS"talega-cont#B6SNTAQRDMFQJVCM#Month:DEC|FY Year:F19|Employee_Type:Officers"
+[2019-01-23T11:10:51.532] [INFO] default - "Generic Server Started"
+[2019-01-23T11:10:51.537] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-23T11:10:52.573] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-23T11:12:05.587] [INFO] default - "Generic Server Started"
+[2019-01-23T11:12:05.592] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-23T11:12:06.646] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-23T11:14:05.707] [INFO] default - "Generic Server Started"
+[2019-01-23T11:14:05.712] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-23T11:14:06.751] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-23T11:14:51.167] [INFO] default - "Generic Server Started"
+[2019-01-23T11:14:51.174] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-23T11:14:52.225] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-23T11:17:29.717] [INFO] default - "Generic Server Started"
+[2019-01-23T11:17:29.725] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-23T11:17:30.740] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-23T11:18:23.292] [INFO] default - "Generic Server Started"
+[2019-01-23T11:18:23.298] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-23T11:18:24.313] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-23T11:19:30.227] [INFO] default - "Generic Server Started"
+[2019-01-23T11:19:30.232] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-23T11:19:31.273] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-23T11:20:22.880] [INFO] default - "Generic Server Started"
+[2019-01-23T11:20:22.888] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-23T11:20:23.904] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-23T11:21:23.057] [INFO] default - "Generic Server Started"
+[2019-01-23T11:21:23.068] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-23T11:21:24.083] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-23T11:21:29.572] [INFO] default - "Generic Server Started"
+[2019-01-23T11:21:29.582] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-23T11:21:30.629] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-23T11:23:02.352] [INFO] default - "Redis Key Exists"
+[2019-01-23T11:23:02.369] [INFO] default - "Successfully Sent Cached MetaData from Redis CACHE"
+[2019-01-23T11:30:01.347] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-23T11:30:05.425] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T11:30:08.948] [INFO] default - "Inside getAllowedSheets"
+[2019-01-23T11:32:05.435] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T11:38:46.402] [INFO] default - "Redis Key Exists"
+[2019-01-23T11:38:46.417] [INFO] default - "Successfully Sent Cached MetaData from Redis CACHE"
+[2019-01-23T11:52:01.520] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-23T11:52:09.078] [INFO] default - "Inside getAllowedSheets"
+[2019-01-23T11:52:09.856] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T11:53:06.261] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-23T11:53:08.976] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T11:53:13.679] [INFO] default - "Inside getAllowedSheets"
+[2019-01-23T11:53:22.474] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T11:59:43.490] [INFO] default - "Redis Key Exists"
+[2019-01-23T11:59:43.505] [INFO] default - "Successfully Sent Cached MetaData from Redis CACHE"
+[2019-01-23T13:00:38.996] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-23T13:00:50.139] [INFO] default - "Inside getAllowedSheets"
+[2019-01-23T13:00:54.548] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T13:01:20.167] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-23T13:01:24.017] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T13:01:27.819] [INFO] default - "Inside getAllowedSheets"
+[2019-01-23T13:01:33.494] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T13:02:08.084] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T14:52:48.659] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-23T14:52:53.846] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T14:52:56.438] [INFO] default - "Inside getAllowedSheets"
+[2019-01-23T14:53:01.258] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T14:54:44.990] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-23T14:54:48.020] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T14:54:52.439] [INFO] default - "Inside getAllowedSheets"
+[2019-01-23T14:54:56.080] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T14:56:56.087] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T14:59:10.847] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-23T14:59:15.332] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T14:59:18.443] [INFO] default - "Inside getAllowedSheets"
+[2019-01-23T14:59:22.362] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T15:00:51.356] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-23T15:00:55.823] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T15:00:58.866] [INFO] default - "Inside getAllowedSheets"
+[2019-01-23T15:01:05.256] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T15:03:32.671] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-23T15:03:43.688] [INFO] default - "Inside getAllowedSheets"
+[2019-01-23T15:04:01.104] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-23T15:04:11.684] [INFO] default - "Inside getAllowedSheets"
+[2019-01-23T15:04:20.538] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T15:22:59.609] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-23T15:23:03.404] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T15:23:07.100] [INFO] default - "Inside getAllowedSheets"
+[2019-01-23T15:23:12.341] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T15:25:03.199] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T15:28:39.131] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-23T15:28:44.293] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T15:28:46.660] [INFO] default - "Inside getAllowedSheets"
+[2019-01-23T15:28:53.873] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T15:30:32.163] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-23T15:30:37.498] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T15:30:39.595] [INFO] default - "Inside getAllowedSheets"
+[2019-01-23T15:30:45.742] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T15:32:07.357] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-23T15:32:13.772] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T15:32:17.389] [INFO] default - "Inside getAllowedSheets"
+[2019-01-23T15:32:20.281] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T15:34:13.736] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T15:34:20.244] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T15:36:29.627] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T15:38:49.411] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-23T15:38:54.093] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T15:38:57.250] [INFO] default - "Inside getAllowedSheets"
+[2019-01-23T15:39:01.761] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T15:41:31.684] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-23T15:41:41.837] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-23T15:42:04.107] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-23T15:42:24.548] [INFO] default - "Generic Server Started"
+[2019-01-23T15:42:24.553] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-23T15:42:25.574] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-23T15:42:26.341] [ERROR] default - "Error While generating Ticket"
+[2019-01-23T15:42:40.664] [INFO] default - "Generic Server Started"
+[2019-01-23T15:42:40.668] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-23T15:42:41.721] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-23T15:42:45.226] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-23T15:43:10.801] [INFO] default - "Ticket Genrated Sucessfully For User talega-cont"
+[2019-01-23T15:43:44.491] [INFO] default - "Generic Server Started"
+[2019-01-23T15:43:44.498] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-23T15:43:45.539] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-23T15:43:53.414] [INFO] default - "Ticket Genrated Sucessfully For User TALEGA-CONT"
+[2019-01-23T15:44:27.675] [INFO] default - "Ticket Genrated Sucessfully For User TALEGA-CONT"
+[2019-01-23T15:45:04.165] [INFO] default - "Ticket Genrated Sucessfully For User TALEGA-CONT"
+[2019-01-23T15:45:43.974] [INFO] default - "Ticket Genrated Sucessfully For User TALEGA-CONT"
+[2019-01-23T15:46:19.601] [INFO] default - "Ticket Genrated Sucessfully For User KAKKAJ-CONT"
+[2019-01-23T15:46:54.347] [INFO] default - "Inside getAllowedSheets"
+[2019-01-23T15:51:32.069] [INFO] default - "Ticket Genrated Sucessfully For User KAKKAJ-CONT"
+[2019-01-23T15:52:29.558] [INFO] default - "Ticket Genrated Sucessfully For User KAKKAJ-CONT"
+[2019-01-23T15:53:32.069] [INFO] default - "Ticket Genrated Sucessfully For User KAKKAJ-CONT"
+[2019-01-23T15:53:42.251] [INFO] default - "Inside getAllowedSheets"
+[2019-01-23T15:53:43.612] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T15:55:43.623] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T16:01:10.877] [INFO] default - "Ticket Genrated Sucessfully For User KAKKAJ-CONT"
+[2019-01-23T16:01:15.462] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T16:01:18.417] [INFO] default - "Inside getAllowedSheets"
+[2019-01-23T16:01:32.659] [INFO] default - "Ticket Genrated Sucessfully For User KAKKAJ-CONT"
+[2019-01-23T16:01:36.997] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T16:01:40.107] [INFO] default - "Inside getAllowedSheets"
+[2019-01-23T16:01:48.377] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T16:16:55.753] [INFO] default - "Ticket Genrated Sucessfully For User KAKKAJ-CONT"
+[2019-01-23T16:17:00.228] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T16:17:03.218] [INFO] default - "Inside getAllowedSheets"
+[2019-01-23T16:17:06.915] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T16:19:06.920] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T16:30:07.208] [INFO] default - "Generic Server Started"
+[2019-01-23T16:30:07.215] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-23T16:30:08.232] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-23T16:37:46.267] [INFO] default - "Generic Server Started"
+[2019-01-23T16:37:46.276] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-23T16:37:47.298] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-23T16:38:06.087] [INFO] default - "Generic Server Started"
+[2019-01-23T16:38:06.093] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-23T16:38:07.116] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-23T16:44:00.290] [INFO] default - "Generic Server Started"
+[2019-01-23T16:44:00.305] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-23T16:44:01.355] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-23T16:44:10.611] [INFO] default - "Generic Server Started"
+[2019-01-23T16:44:10.624] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-23T16:44:11.650] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-23T16:45:06.243] [INFO] default - "Generic Server Started"
+[2019-01-23T16:45:06.248] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-23T16:45:07.269] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-23T16:48:02.093] [INFO] default - "Ticket Genrated Sucessfully For User KAKKAJ-CONT"
+[2019-01-23T16:48:24.894] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T16:48:38.397] [INFO] default - "Ticket Genrated Sucessfully For User KAKKAJ-CONT"
+[2019-01-23T16:48:45.761] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T16:48:50.472] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T16:48:59.547] [INFO] default - "Inside commentsOperations"
+[2019-01-23T17:16:14.712] [INFO] default - "Generic Server Started"
+[2019-01-23T17:16:14.718] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-23T17:16:15.734] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-23T17:16:27.055] [INFO] default - "Ticket Genrated Sucessfully For User KAKKAJ-CONT"
+[2019-01-23T17:16:32.801] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T17:16:39.254] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T17:16:46.000] [INFO] default - "Inside commentsOperations"
+[2019-01-23T17:18:39.259] [ERROR] default - "/pushToServerLog Error While Logging"
+[2019-01-23T17:18:58.249] [INFO] default - "Generic Server Started"
+[2019-01-23T17:18:58.256] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-23T17:18:59.277] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-23T17:19:05.147] [INFO] default - "Generic Server Started"
+[2019-01-23T17:19:05.155] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-23T17:19:06.174] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-23T17:24:43.785] [INFO] default - "Ticket Genrated Sucessfully For User KAKKAJ-CONT"
+[2019-01-23T17:25:04.016] [INFO] default - "Inside commentsOperations"
+[2019-01-23T17:36:44.389] [INFO] default - "Inside commentsOperations"
+[2019-01-23T17:37:25.718] [INFO] default - "Inside commentsOperations"
+[2019-01-23T17:38:24.734] [INFO] default - "Inside commentsOperations"
+[2019-01-23T17:38:46.332] [INFO] default - "Ticket Genrated Sucessfully For User TALEGA-CONT"
+[2019-01-23T17:38:55.633] [INFO] default - "Ticket Genrated Sucessfully For User TALEGA-CONT"
+[2019-01-23T17:39:37.830] [INFO] default - "Inside commentsOperations"
+[2019-01-23T17:43:53.187] [INFO] default - "Generic Server Started"
+[2019-01-23T17:43:53.194] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-23T17:43:54.212] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-23T17:44:34.585] [INFO] default - "Generic Server Started"
+[2019-01-23T17:44:34.595] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-23T17:44:35.612] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-23T17:44:35.816] [ERROR] default - "Error While generating Ticket"
+[2019-01-23T17:44:49.086] [INFO] default - "Ticket Genrated Sucessfully For User TALEGA-CONT"
+[2019-01-23T17:54:16.009] [INFO] default - "Ticket Genrated Sucessfully For User TALEGA-CONT"
+[2019-01-23T17:55:12.498] [INFO] default - "Inside commentsOperations"
+[2019-01-23T17:56:47.664] [INFO] default - "Ticket Genrated Sucessfully For User TALEGA-CONT"
+[2019-01-23T17:57:10.242] [INFO] default - "Inside commentsOperations"
+[2019-01-23T17:59:48.460] [INFO] default - "Inside commentsOperations"
+[2019-01-23T18:01:39.913] [INFO] default - "Ticket Genrated Sucessfully For User TALEGA-CONT"
+[2019-01-23T18:03:18.140] [INFO] default - "Inside commentsOperations"
+[2019-01-23T18:08:10.922] [INFO] default - "Inside commentsOperations"
+[2019-01-23T18:08:14.812] [INFO] default - "Inside commentsOperations"
+[2019-01-23T18:08:40.828] [INFO] default - "Generic Server Started"
+[2019-01-23T18:08:40.836] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-23T18:08:41.871] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-24T09:16:31.265] [INFO] default - "Generic Server Started"
+[2019-01-24T09:16:31.273] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-24T09:16:32.307] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-24T10:57:21.257] [INFO] default - "Redis Key Exists"
+[2019-01-24T10:57:21.275] [INFO] default - "Successfully Sent Cached MetaData from Redis CACHE"
+[2019-01-24T10:59:21.309] [INFO] default - "Ticket Genrated Sucessfully For User TALEGA-CONT"
+[2019-01-24T11:06:23.836] [INFO] default - "Inside commentsOperations"
+[2019-01-24T11:07:20.060] [INFO] default - "Inside commentsOperations"
+[2019-01-24T11:07:24.072] [INFO] default - "Inside commentsOperations"
+[2019-01-24T11:11:24.752] [INFO] default - "Ticket Genrated Sucessfully For User TALEGA-CONT"
+[2019-01-24T11:13:16.058] [INFO] default - "Inside commentsOperations"
+[2019-01-24T12:07:27.303] [INFO] default - "Redis Key Exists"
+[2019-01-24T12:07:27.315] [INFO] default - "Successfully Sent Cached MetaData from Redis CACHE"
+[2019-01-24T12:07:49.452] [INFO] default - "Redis Key Exists"
+[2019-01-24T12:07:49.458] [INFO] default - "Successfully Sent Cached MetaData from Redis CACHE"
+[2019-01-24T12:26:53.350] [INFO] default - "Ticket Genrated Sucessfully For User TALEGA-CONT"
+[2019-01-24T12:47:41.718] [INFO] default - "Ticket Genrated Sucessfully For User TALEGA-CONT"
+[2019-01-24T13:29:23.785] [INFO] default - "Redis Key Exists"
+[2019-01-24T13:29:23.795] [INFO] default - "Successfully Sent Cached MetaData from Redis CACHE"
+[2019-01-24T14:31:45.084] [INFO] default - "Redis Key Exists"
+[2019-01-24T14:31:45.091] [INFO] default - "Successfully Sent Cached MetaData from Redis CACHE"
+[2019-01-24T15:38:21.400] [INFO] default - "Generic Server Started"
+[2019-01-24T15:38:21.405] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-24T15:38:22.462] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-24T16:03:21.098] [INFO] default - "Generic Server Started"
+[2019-01-24T16:05:04.833] [INFO] default - "Generic Server Started"
+[2019-01-24T16:12:30.168] [INFO] default - "Generic Server Started"
+[2019-01-24T16:21:58.931] [INFO] default - "Generic Server Started"
+[2019-01-24T16:23:44.852] [INFO] default - "Generic Server Started"
+[2019-01-24T16:27:35.702] [INFO] default - "Generic Server Started"
+[2019-01-24T16:30:01.869] [INFO] default - "Generic Server Started"
+[2019-01-24T16:30:41.297] [INFO] default - "Generic Server Started"
+[2019-01-24T16:31:29.314] [INFO] default - "Generic Server Started"
+[2019-01-24T16:31:41.670] [INFO] default - "Generic Server Started"
+[2019-01-24T16:31:54.344] [INFO] default - "Generic Server Started"
+[2019-01-24T16:31:54.353] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-24T16:31:55.392] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-24T16:32:15.386] [INFO] default - "Redis Key Exists"
+[2019-01-24T16:32:15.402] [INFO] default - "Successfully Sent Cached MetaData from Redis CACHE"
+[2019-01-24T16:33:47.598] [ERROR] default - "Error While generating Ticket"
+[2019-01-24T16:34:09.489] [INFO] default - "Ticket Genrated Sucessfully For User TALEGA-CONT"
+[2019-01-24T16:35:20.554] [INFO] default - "Inside commentsOperations"
+[2019-01-24T16:35:30.141] [INFO] default - "Inside commentsOperations"
+[2019-01-24T16:35:34.087] [INFO] default - "Inside commentsOperations"
+[2019-01-24T16:39:24.051] [INFO] default - "Generic Server Started"
+[2019-01-24T16:39:24.060] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-24T16:39:25.074] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-24T16:55:57.514] [INFO] default - "Generic Server Started"
+[2019-01-24T16:55:57.520] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-24T16:55:58.545] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-24T16:58:00.468] [INFO] default - "Generic Server Started"
+[2019-01-24T16:58:00.474] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-24T16:58:01.501] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-24T17:00:39.347] [INFO] default - "Generic Server Started"
+[2019-01-24T17:00:39.382] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-24T17:00:40.397] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-24T17:00:43.654] [INFO] default - "Generic Server Started"
+[2019-01-24T17:00:43.660] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-24T17:00:44.684] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-24T17:00:54.038] [INFO] default - "Generic Server Started"
+[2019-01-24T17:00:54.044] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-24T17:00:55.068] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-24T17:01:11.313] [INFO] default - "Generic Server Started"
+[2019-01-24T17:01:11.336] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-24T17:01:12.357] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-24T17:31:59.695] [INFO] default - "Generic Server Started"
+[2019-01-24T17:31:59.747] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-24T17:32:00.831] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-24T17:35:34.784] [INFO] default - "Generic Server Started"
+[2019-01-24T17:35:34.829] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-24T17:35:35.887] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-24T17:35:44.474] [INFO] default - "Generic Server Started"
+[2019-01-25T09:36:28.048] [INFO] default - "Generic Server Started"
+[2019-01-25T09:42:03.387] [INFO] default - "Generic Server Started"
+[2019-01-25T09:42:03.391] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-25T09:42:04.453] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-25T09:43:00.192] [INFO] default - "Redis Key Exists"
+[2019-01-25T09:43:00.208] [INFO] default - "Successfully Sent Cached MetaData from Redis CACHE"
+[2019-01-25T09:43:26.880] [ERROR] default - "Error While generating Ticket"
+[2019-01-25T09:43:52.922] [INFO] default - "Ticket Genrated Sucessfully For User TALEGA-CONT"
+[2019-01-25T09:44:08.207] [INFO] default - "Ticket Genrated Sucessfully For User TALEGA-CONT"
+[2019-01-25T09:48:32.759] [ERROR] default - "Error While sending mail"
+[2019-01-25T09:48:51.268] [INFO] default - "Inside commentsOperations"
+[2019-01-25T09:49:07.710] [INFO] default - "Ticket Genrated Sucessfully For User TALEGA-CONT"
+[2019-01-25T09:49:22.516] [INFO] default - "Ticket Genrated Sucessfully For User KAKKAJ-CONT"
+[2019-01-25T09:51:43.696] [INFO] default - "Inside commentsOperations"
+[2019-01-25T09:51:48.075] [INFO] default - "Inside commentsOperations"
+[2019-01-25T09:53:11.045] [INFO] default - "Ticket Genrated Sucessfully For User Talega-CONT"
+[2019-01-25T09:57:45.338] [INFO] default - "Ticket Genrated Sucessfully For User KAKKAJ-CONT"
+[2019-01-25T10:03:11.848] [INFO] default - "Inside commentsOperations"
+[2019-01-25T10:08:13.112] [INFO] default - "Ticket Genrated Sucessfully For User KAKKAJ-CONT"
+[2019-01-25T10:09:04.358] [INFO] default - "Inside commentsOperations"
+[2019-01-25T10:09:08.651] [INFO] default - "Inside commentsOperations"
+[2019-01-25T10:13:23.534] [INFO] default - "Generic Server Started"
+[2019-01-25T10:43:38.917] [INFO] default - "Generic Server Started"
+[2019-01-25T10:54:17.573] [INFO] default - "Generic Server Started"
+[2019-01-25T10:54:17.579] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-25T10:54:18.600] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-25T11:07:00.767] [INFO] default - "Ticket Genrated Sucessfully For User KAKKAJ-CONT"
+[2019-01-25T11:13:34.094] [INFO] default - "Ticket Genrated Sucessfully For User KAKKAJ-CONT"
+[2019-01-25T11:15:02.002] [INFO] default - "Ticket Genrated Sucessfully For User KAKKAJ-CONT"
+[2019-01-25T11:21:56.156] [INFO] default - "Inside commentsOperations"
+[2019-01-25T11:22:02.207] [INFO] default - "Inside commentsOperations"
+
+[2019-01-25T12:30:01.097] [INFO] default - "Generic Server Started"
+[2019-01-25T12:45:11.690] [INFO] default - "Generic Server Started"
+[2019-01-28T09:06:40.529] [INFO] default - "Generic Server Started"
+[2019-01-28T09:06:40.537] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-28T09:06:41.597] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-28T10:28:35.938] [INFO] default - "Generic Server Started"
+[2019-01-28T10:28:35.943] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-28T10:28:36.996] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"
+[2019-01-28T10:29:21.282] [INFO] default - "Generic Server Started"
+[2019-01-28T10:29:21.287] [INFO] default - "=============> Redis Server Connected Sucessfully <================"
+[2019-01-28T10:29:22.323] [INFO] default - "=============> Mongo Server Connected Sucessfully <================"

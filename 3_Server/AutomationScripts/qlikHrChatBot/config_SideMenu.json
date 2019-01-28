@@ -1,0 +1,15 @@
+[ {"menuName":"Top Queries","menuKey":"TQ","menuIconUrl":"fa fa-question-circle","isActive":0,"opType":1}
+, {"menuName":"Logout","menuKey":"LO","menuIconUrl":"fa fa-sign-out","isActive":1,"opType":1}
+, {"menuName":"About","menuKey":"A","isActive":1,"menuIconUrl":"fa fa-info-circle","opType":1}
+, {"menuName":"KPI","menuKey":"KPI","menuIconUrl":"fa fa-list-alt","isActive":1}
+, {"menuName":"Mute Audio","menuKey":"MA","menuIconUrl":"fa fa-volume-up","isActive":1}
+, {"menuName":"Delete Graph","menuKey":"DG","menuIconUrl":"fa fa-trash-o","isActive":0}
+, {"menuName":"Save Bookmark","menuKey":"SB","menuIconUrl":"fa fa-bookmark","isActive":0}
+, {"menuName":"Load Bookmark","menuKey":"LB","menuIconUrl":"fa fa-tasks","isActive":0}
+, {"menuName":"Delete Bookmark","menuKey":"DB","menuIconUrl":"fa fa-trash-o","isActive":0}
+, {"menuName":"Clear Chat","menuKey":"CC","menuIconUrl":"fa fa-minus-square","isActive":1}
+, {"menuName":"Mail","menuKey":"MS","menuIconUrl":"fa fa-envelope","isActive":1}
+, {"menuName":"Full Screen","menuKey":"FS","menuIconUrl":"fa fa-arrows-alt","isActive":1}
+, {"menuName":"Help","menuKey":"H","menuIconUrl":"fa fa-question-circle","isActive":1}
+, {"menuName":"Notifications","menuKey":"N","isActive":1,"opType":1,"menuIconUrl":"fa fa-bell"}
+]

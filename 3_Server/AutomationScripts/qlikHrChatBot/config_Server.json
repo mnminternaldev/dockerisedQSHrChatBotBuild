@@ -1,0 +1,15 @@
+[{"key":"URL_ENGIMA_WSS_CONNECTION","value":"wss://qliksensedev.corp.mahindra.com:4747/app","opType":1}
+, {"key":"MAIL_APP_SUPPORT_FROM","value":"samvaad@mahindrasamvaad.com","opType":1}
+, {"key":"URL_QLIK_META_FETCH","value":"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=1","opType":1}
+, {"key":"QLIK_USER_DIRECTORY","value":"MAHINDRA","opType":1}
+, {"key":"URL_NETWORK_PROXY","value":"http://talele-cont:mahindra@333@10.2.152.4:80","opType":1}
+, {"key":"CONST_MASTER_USERID","value":"KAKKAJ-CONT","opType":1}
+, {"key":"QLIK_APPID","value":"d2d69372-0872-4319-ab68-e2784c2db879","opType":1}
+, {"key":"URL_QLIK_HOST","value":"qsdev.mahindra.com","opType":1}
+, {"key":"URL_MAIL_SERVER","value":"smtpin.falconide.com","opType":1}
+, {"key":"MAIL_AUTH_USERNAME","value":"mahindrasamvaad","opType":1}
+, {"key":"MAIL_AUTH_PASSWORD","value":"Mahindra@123","opType":1}
+, {"value":"talele.gaurav@mahindra.com","key":"MAIL_APP_SUPPORT_TO","opType":1}
+, {"key":"CRON_JOB_TIME","value":"00 07 08 * * *","opType":1}
+, {"key":"URL_META_FETCH_AND_UPDATE_CACHE","value":"http://localhost:5100/getWholeMetaData?forceFulDbCacheUpdate=0\u0026dbChoice=0","opType":1}
+]

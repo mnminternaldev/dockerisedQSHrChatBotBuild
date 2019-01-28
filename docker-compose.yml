@@ -1,0 +1,83 @@
+version: '3'
+services:
+  mongo:
+    image: 'mongo'
+    container_name: mongo-server
+    ports:
+      - 27017:27017
+
+  redis-server:
+    container_name: redis-server
+    image: 'redis'
+    restart: always
+
+  mongo-seed:
+    container_name: mongo-seed
+    build: ./4_Utils
+    links:
+      - mongo
+    depends_on:
+      - mongo
+  
+  node-app:
+    build: .
+    container_name: node-server
+    restart: always
+    ports: 
+      - "7000:7000"
+    links:
+      - mongo
+      - redis-server
+    depends_on:
+      - mongo-seed
+      - mongo
+      - redis-server
+
+  admin-panel:
+    container_name: fe_hr_qs_chatbot_admin
+    build: ./1_AdminBuild
+    restart: always
+    links:
+      - mongo
+      - redis-server
+      - node-app
+    depends_on:
+      - mongo
+      - node-app
+      - redis-server
+    ports:
+          - "7002:80"
+  
+  chatbot-panel:
+    container_name: fe_hr_qs_chatbot
+    build: ./2_FrontendBuild
+    restart: always
+    links:
+      - mongo
+      - redis-server
+      - node-app
+    depends_on:
+      - mongo
+      - node-app
+      - redis-server
+    ports:
+          - "7001:80"
+
+  nlp-service:
+    build:
+      context: ./6_NlpService
+      dockerfile: Dockerfile
+    container_name: python-nlp-service
+    ports:
+      - 7003:5000
+    environment:
+      REDIS_HOST: redis-server
+    links:
+      - redis-server
+    depends_on:
+      - mongo
+      - node-app
+      - redis-server
+
+    
+  
